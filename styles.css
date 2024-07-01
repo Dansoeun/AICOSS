@@ -1,0 +1,164 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.right-content {
+    flex-grow: 1;
+    background-color: #ffffff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-sidebar {
+    width: 20%;
+    background-color: #b6b5b5;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+}
+
+.add {
+    font-size: 15px;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.additional-text {
+    font-size: 10px;
+    color: gray;
+    margin-bottom: 5px;
+}
+
+.auth-section {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: 10px;
+    align-items: flex-start;
+}
+
+.button {
+    margin-bottom: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #f4f4f4;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.prompt-section {
+    align-self: flex-start;
+    margin-bottom: 60px;
+}
+
+.prompt-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.prompt-more {
+    color: skyblue;
+    font-size: 5px;
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.prompt-more p {
+    font-size: 14px;
+}
+
+.prompt-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.task-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: calc(30% - 20px);
+    margin-bottom: 5px; /* 상하 여백 추가 */
+    box-sizing: border-box;
+    height: 140px; /* 높이 조정 */
+    margin-right: 30px; /* 오른쪽 마진 추가 */
+    justify-content: space-between; /* 내용 수직 정렬 */
+}
+.task-box p,
+.task-box h6 {
+    margin: 7px 0; /* 원하는 간격으로 조정 */
+}
+
+.icon {
+    width: 50px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.input-container {
+    padding: 5px;
+    position: absolute;
+    bottom: 20px;
+    left: calc(20% + 60px); /* 왼쪽 사이드바 너비를 고려 */
+    right: 100px; /* 오른쪽 여백 */
+    z-index: 9999;
+    max-width: calc(100% - 40px); /* 최대 너비 설정 */
+    border-radius: 25px;
+    border: 2px solid #84848c;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.input-container input {
+    background-color: transparent;
+    color: #000000;
+    border: none;
+    outline: none;
+    padding: 15px;
+    flex-grow: 1;
+    min-width: 50px;
+    font-size: 14px;
+    font-weight: 1000;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.input-container button {
+    background-color: #84848c;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    padding: 15px 25px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+}
