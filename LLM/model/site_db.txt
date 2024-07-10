@@ -1,0 +1,314 @@
+# kakao site
+
+1. 카카오 공식 홈페이지
+
+https://www.kakaocorp.com/page/
+
+1. 카카오 고객센터
+
+https://cs.kakao.com/
+
+1. 카카오페이지
+
+https://page.kakao.com/
+
+1. 카카오 마이구독
+
+https://my.kakao.com/
+
+1. 카카오 페이
+
+https://www.kakaopay.com/
+
+1. 카카오 뱅크
+
+https://m.kakaobank.com/
+
+1. 카카오엔터프라이즈
+
+https://kakaoenterprise.com/
+
+1. 카카오모빌리티
+
+https://www.kakaomobility.com/
+
+1. 카카오워크
+
+https://www.kakaowork.com/
+
+1. 카카오게임즈
+
+https://www.kakaogamescorp.com/
+
+1. 카카오골프예약
+
+https://www.kakao.golf/
+
+1. 카카오인증
+
+https://www.kakaocert.com/
+
+1. 카카오 헬스케어
+
+https://kakaohealthcare.com/
+
+1. 카카오 쇼핑라이브
+
+https://shoppinglive.kakao.com/
+
+1. 카카오 브레인
+
+https://www.kakaobrain.com/
+
+1. 카카오 지도
+
+https://map.kakao.com/?q=25
+
+1. 카카오 임팩트
+
+https://www.kakaoimpact.org/
+
+1. 카카오 벤쳐스
+
+https://www.kakao.vc/
+
+1. 카카오인베스트먼트
+
+https://kakaoinvestment.com/
+
+1. 카카오픽코마
+
+https://www.kakaopiccoma.com/
+
+1. 카카오 엔터테인먼트
+
+https://kakaoent.com/
+
+1. 카카오커머스
+
+https://kakaocommerce.com/
+
+1. 카톡설명서
+
+https://talktips.kakao.com/
+
+1. 카카오톡 pc버전 다운로드
+
+https://kakaotalk.new-version.download/
+
+1. 카카오비즈니스
+
+https://kakaobusiness.gitbook.io/main
+
+1. 카카오클라우드
+
+https://kakaocloud.com/
+
+1. 카카오VX
+
+https://kakaovx.com/
+
+1. 카카오인증
+
+https://www.kakaosign.com/
+
+1. 카카오페이손해보험
+
+https://kakaopayinscorp.co.kr/
+
+1. 카카오헤어샵 for 파트너스
+
+https://partners.kakaohairshop.co.kr/
+
+1. 카카오페이증권
+
+https://kakaopaysec.com/
+
+1. 헤이카카오
+
+https://kakao.ai/service
+
+#naver site
+1. 네이버 (Naver): www.naver.com
+9. **네이버 블로그 (Naver Blog)**: blog.naver.com - 개인 및 기업 블로그를 운영하고 글을 작성할 수 있는 플랫폼.
+10. **네이버 카페 (Naver Cafe)**: cafe.naver.com - 사용자들이 공통된 관심사를 가지고 모여 소통하는 카페 플랫폼.
+11. **네이버 지식iN (Naver Knowledge iN)**: kin.naver.com - 지식 공유 및 질문 응답을 위한 커뮤니티 플랫폼.
+12. **네이버 뉴스 (Naver News)**: news.naver.com - 다양한 분야의 최신 뉴스를 제공하는 뉴스 플랫폼.
+13. **네이버 웹툰 (Naver Webtoon)**: comic.naver.com - 다양한 장르의 웹툰을 무료로 즐길 수 있는 플랫폼.
+14. **네이버 스포츠 (Naver Sports)**: sports.news.naver.com - 스포츠 관련 뉴스, 일정, 기사 등을 제공하는 플랫폼.
+15. **네이버 TV (Naver TV)**: tv.naver.com - 다양한 온라인 동영상 콘텐츠를 제공하는 플랫폼.
+16. **네이버 페이 (Naver Pay)**: pay.naver.com - 네이버의 결제 서비스로 온라인 및 오프라인에서 결제를 할 수 있습니다.
+17. **네이버 쇼핑 (Naver Shopping)**: shopping.naver.com - 다양한 상품을 판매하는 온라인 쇼핑몰 플랫폼.
+18. **네이버 지도 (Naver Map)**: map.naver.com - 지도 서비스로, 길 찾기, 주변 시설 검색 등을 제공합니다.
+19. **네이버 뮤직 (Naver Music)**: music.naver.com - 음악 스트리밍 서비스로, 다양한 음원을 감상할 수 있습니다.
+20. **네이버 포스트 (Naver Post)**: post.naver.com - 다양한 주제의 포스트를 볼 수 있는 컨텐츠 플랫폼.
+21. **네이버 라이브러리 (Naver Library)**: 책과 관련된 다양한 콘텐츠를 제공하는 서비스입니다.
+22. **네이버 뮤직 플레이어 (Naver Music Player)**: 음악 재생 및 관리를 위한 음악 플레이어 서비스입니다.
+23. **네이버 영화 (Naver Movies)**: 영화 정보, 상영 시간표, 예매 등을 제공하는 영화 관련 플랫폼입니다.
+24. **네이버 포스트 (Naver Post)**: 다양한 주제의 포스트를 작성하고 공유하는 소셜 미디어 플랫폼입니다.
+25. **네이버 레시피 (Naver Recipe)**: 다양한 요리 레시피 및 조리법을 제공하는 서비스입니다.
+26. **네이버 뉴스스탠드 (Naver Newsstand)**: 사용자의 관심사에 맞는 뉴스를 제공하는 개인화된 뉴스 서비스입니다.
+27. **네이버 블로그 웹툰 (Naver Blog Webtoon)**: 네이버 블로그에서 연재되는 웹툰을 즐길 수 있는 서비스입니다.
+28. **네이버 부동산 (Naver Real Estate)**: 부동산 매물 정보 및 시세, 분석 등을 제공하는 부동산 플랫폼입니다.
+29. **네이버 클라우드 (Naver Cloud)**: 클라우드 스토리지 서비스로, 파일 저장 및 공유를 할 수 있습니다.
+30. **네이버 메모 (Naver Memo)**: 메모 작성 및 관리를 위한 서비스로, 다양한 플랫폼에서 이용할 수 있습니다.
+31. **네이버 메일 (Naver Mail)**: 네이버의 이메일 서비스로, 안정적인 이메일 송수신 및 관리를 제공합니다.
+32. **네이버 캘린더 (Naver Calendar)**: 일정 관리를 위한 캘린더 서비스로, 일정 추가, 공유, 알림 등을 제공합니다.
+33. **네이버 쇼핑 랭킹 (Naver Shopping Ranking)**: 인기 상품이나 트렌드를 파악할 수 있는 쇼핑 랭킹 서비스입니다.
+34. **네이버 뉴스판 (Naver Newsstand)**: 다양한 언론사의 뉴스를 한 곳에서 모아 보여주는 뉴스 플랫폼입니다.
+35. **네이버 레이블 (Naver Label)**: 음악 레이블과 아티스트들의 정보를 제공하는 서비스입니다.
+36. **네이버 포토갤러리 (Naver Photo Gallery)**: 사진 저장 및 관리를 위한 서비스로, 클라우드 기반으로 제공됩니다.
+37. **네이버 워드 (Naver Word)**: 온라인 문서 작성 및 공유를 위한 웹 기반 워드 프로세서 서비스입니다.
+38. **네이버 지도 플러스 (Naver Map Plus)**: 실시간 교통 정보, 주차장 정보 등을 제공하는 향상된 지도 서비스입니다.
+39. **네이버 연애상담 (Naver Relationship Counseling)**: 연애, 결혼, 가족 문제 등 다양한 상담을 제공하는 서비스입니다.
+40. **네이버 디자인 스토어 (Naver Design Store)**: 디자인 관련 자료, 소스, 템플릿 등을 제공하는 스토어 서비스입니다.
+41. **네이버 부동산 리브 (Naver Real Estate Live)**: 온라인으로 부동산 매물을 실시간으로 확인하고 상담할 수 있는 서비스입니다.
+42. **네이버 엔드포인트 보안 (Naver Endpoint Security)**: 기업용 보안 솔루션으로, 엔드포인트 보호와 관리를 제공합니다.
+43. **네이버 모바일 웹툰 (Naver Mobile Webtoon)**: 모바일에서 즐길 수 있는 다양한 웹툰을 제공하는 서비스입니다.
+44. **네이버 클립보드 (Naver Clipboard)**: 텍스트나 이미지 등을 클립보드에 저장하고 다른 기기에서도 공유할 수 있는 서비스입니다.
+45. **네이버 미디어 스트리밍 (Naver Media Streaming)**: 다양한 미디어 콘텐츠를 스트리밍하는 서비스로, 음악, 영상 등을 제공합니다.
+46. **네이버 웹소설 (Naver Web Novel)**: 다양한 장르의 웹소설을 연재하고 읽을 수 있는 서비스입니다.
+47. **네이버 광고 (Naver Advertising)**: 광고주를 위한 광고 플랫폼으로, 검색 광고, 디스플레이 광고 등을 제공합니다.
+48. **네이버 웹툰 에디션 (Naver Webtoon Edition)**: 개인 맞춤형 웹툰을 추천하고 제공하는 서비스입니다.
+49. **네이버 포인트 (Naver Point)**: 네이버 서비스 이용 시 적립되는 포인트를 확인하고 관리할 수 있는 서비스입니다.
+50. **네이버 매거진 (Naver Magazine)**: 다양한 주제의 매거진 콘텐츠를 제공하는 서비스입니다.
+
+#microsoft site
+
+1. Microsoft cloud
+    1. https://www.microsoft.com/ko-kr/microsoft-cloud
+2. Microsoft Security
+    1. https://www.microsoft.com/ko-kr/security
+3. Microsoft Advertising
+    1. https://about.ads.microsoft.com/en
+4. Azure
+    1. https://azure.microsoft.com/ko-kr/
+5. Dynamics 365
+    1. https://www.microsoft.com/ko-kr/dynamics-365
+6. Microsoft 365
+    1. https://www.microsoft.com/ko-kr/microsoft-365/business
+7. Copilot for Microsoft 365
+    1. https://www.microsoft.com/ko-kr/microsoft-365/business/copilot-for-microsoft-365
+8. Microsoft Teams
+    1. https://www.microsoft.com/ko-kr/microsoft-teams/group-chat-software
+9. Microsoft Learn
+    1. https://learn.microsoft.com/ko-kr/
+10. Microsoft Tech Community
+    1. https://techcommunity.microsoft.com/
+11. Azure Marketplace
+    1. https://azuremarketplace.microsoft.com/ko-KR/
+12. AppSource
+    1. https://appsource.microsoft.com/en-us/
+13. Microsoft Power Platform
+    1. https://www.microsoft.com/ko-kr/power-platform
+14. Visual Studio
+    1. https://visualstudio.microsoft.com/ko/
+15. Microsoft Education
+    1. https://www.microsoft.com/ko-kr/education
+16. Microsoft 365 Education
+    1. https://www.microsoft.com/ko-kr/education/products/microsoft-365
+17. Office Education
+    1. https://www.microsoft.com/ko-kr/education/products/office
+18. Azure for students
+    1. https://azure.microsoft.com/ko-kr/free/students/
+19. Download Center
+    1. https://www.microsoft.com/ko-kr/download
+20. Microsoft Store 지원
+    1. https://support.microsoft.com/ko-kr/microsoft-store-and-billing?ocid=MS_Footer_StoreSupport
+
+이 뒤부터는 자구 끝나고….. 할게요…
+
+-Application-
+
+1. Word
+    1. https://www.microsoft.com/ko-kr/microsoft-365/word
+2. Excel
+    1. https://www.microsoft.com/ko-kr/microsoft-365/excel
+3. PowerPoint
+    1. https://www.microsoft.com/ko-kr/microsoft-365/powerpoint
+4. Outlook
+    1. https://www.microsoft.com/ko-kr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
+5. Access
+    1. https://www.microsoft.com/ko-kr/microsoft-365/access
+6. Exchange
+    1. https://www.microsoft.com/ko-kr/microsoft-365/exchange/email
+7. 비즈니스용 OneDrive
+    1. https://www.microsoft.com/ko-kr/microsoft-365/onedrive/onedrive-for-business
+8. SharePoint
+    1. https://www.microsoft.com/ko-kr/microsoft-365/sharepoint/collaboration
+9. 비즈니스용 Skype
+    1. https://www.microsoft.com/ko-kr/microsoft-365/previous-versions/skype-for-business-online
+10. Visio
+    1. https://www.microsoft.com/ko-kr/microsoft-365/visio/flowchart-software
+
+-SERVICE-
+
+1. Outlook.com
+    1. [https://www.microsoft.com/ko-kr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2Fowa%2F&sdf=0](https://www.microsoft.com/ko-kr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0)
+2. OneDrive
+    1. https://www.microsoft.com/ko-kr/microsoft-365/onedrive/online-cloud-storage?WT.mc_id=OO_MSCOM_Launch_Features
+3. OneNote
+    1. https://www.onenote.com/?public=1&wdorigin=ondcauth2&wdorigin=ondc
+4. Skype
+    1. https://skype.daesung.com/main.asp
+5. Microsoft Groove
+    1. https://support.microsoft.com/ko-kr/windows/groove-music-and-spotify-faq-7f5e6c92-c662-0e14-a866-45ad8782dd91
+6. Bing
+    1. https://www.bing.com/
+7. 기업용 Bing 지도
+    1. https://www.microsoft.com/en-us/maps
+8. MSN
+    1. https://www.msn.com/ko-kr
+
+-Surface
+
+1. [Microsoft](http://1.Microsoft) Surface
+    1. https://www.microsoft.com/ko-kr/surface
+2. Surface Pro 9
+    1. [https://www.microsoft.com/ko-kr/surface/devices/surface-pro-9?activetab=pivot:개요tab](https://www.microsoft.com/ko-kr/surface/devices/surface-pro-9?activetab=pivot:%EA%B0%9C%EC%9A%94tab)
+3. Surface Laptop Studio 2
+    1. https://www.microsoft.com/ko-kr/surface/devices/surface-laptop-studio-2
+4. Surface Laptop Go 3
+    1. https://www.microsoft.com/ko-kr/surface/devices/surface-laptop-go-3
+5. 기업 고객용 Surface
+    1. https://www.microsoft.com/ko-kr/surface/business
+6. Surface Laptop 5
+    1. [https://www.microsoft.com/ko-kr/surface/devices/surface-laptop-5?activetab=pivot:개요tab](https://www.microsoft.com/ko-kr/surface/devices/surface-laptop-5?activetab=pivot:%EA%B0%9C%EC%9A%94tab)
+
+-Xbox-
+
+1. Xbox
+    1. https://www.xbox.com/ko-KR/
+2. Xbox 콘솔
+    1. https://www.xbox.com/ko-KR/consoles
+3. Xbox Series X
+    1. https://www.xbox.com/ko-KR/consoles/xbox-series-x
+4. Xbox Series S
+    1. https://www.xbox.com/ko-KR/consoles/xbox-series-s
+5. 콘솔 쇼핑하기
+    1. https://www.xbox.com/ko-KR/consoles/all-consoles
+6. Xbox 지원
+    1. https://support.xbox.com/ko-KR/
+
+-Game-
+
+1. Xbox 게임
+    1. https://www.xbox.com/ko-KR/games
+2. Xbox Game Pass
+    1. https://www.xbox.com/ko-KR/xbox-game-pass
+3. PC Game Pass
+    1. https://www.xbox.com/ko-KR/xbox-game-pass/pc-game-pass
+4. Xbox 클라우드 게임
+    1. https://www.xbox.com/ko-KR/cloud-gaming
+
+-App-
+
+1. 모바일용 Xbox 앱
+    1. https://www.xbox.com/ko-KR/apps/xbox-app-for-mobile
+2. pc용 Xbox 앱
+    1. https://www.xbox.com/ko-KR/apps/xbox-app-for-pc
+3. Xbox Game Pass 모바일 앱
+    1. https://www.xbox.com/ko-KR/apps/xbox-game-pass-mobile-app
+4. Xbox Familty Settings 앱
+    1. https://www.xbox.com/ko-KR/apps/family-settings-app
+
