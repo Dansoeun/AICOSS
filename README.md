@@ -17,7 +17,7 @@
 ###프로젝트 기술
 ---
 1. LLM: llama-index + postgresSQL DB 완료.
-* PEFT 데이터셋 hugging face에 업로드 [kakao](https://huggingface.co/datasets/Dansoeun/Kakao_fine_tun_dataset)
+* PEFT 데이터셋 hugging face에 업로드 [kakao QnA dataset](https://huggingface.co/datasets/Dansoeun/Kakao_fine_tun_dataset), [naver QnA dataset](https://huggingface.co/datasets/Dansoeun/Naver_fine_tun_dataset)
 *  GPU 서버로 PEFT를 진행하려 했으나 사용에 에러가 있어 잠시 차질이 있음.
 *  기존 데이터셋은 적으나 점차 늘려서 학습하는 방식으로 진행할 예정
 *  정확도를 끌어올린 이후에는 경량화 초점으로 맞춰 갈지 논의해야할 사항.
