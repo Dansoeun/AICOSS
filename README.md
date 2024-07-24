@@ -9,18 +9,27 @@
 ##프로젝트 방향성
 ----
 1. **개발용역**:
-*한 계열사 정보를 크롤링해서 모은 다음 챗봇 형식으로 납품.
-*와이즈넛 등 챗봇 전문 회사에 납품하는 방향성도 존재.
-*한 사이트에 여러개의 챗봇이 들어갈 수 있게 경량화 기법(Tensor RT) 고안 
+*한 계열사 정보를 크롤링해서 모은 다음 챗봇 형식으로 납품하는 것도 생각했습니다.
+ex)와이즈넛 등 챗봇 전문 회사에 납품하는 방향성도 존재.
+*한 사이트에 여러개의 챗봇이 들어갈 수 있게 경량화 기법(Tensor RT) 기술력을 고안하는 방향도 있습니다.
 2. **창업**: 기존 개발품을 사업화. [비즈니스 모델 안내](https://drive.google.com/file/d/1BmPgCuYY-XsLpPHRYTZ7x-b6TMMGXyjG/view?usp=sharing)
 
 ###프로젝트 기술
 ---
-1. LLM: llama-index + postgresSQL DB 완료.
+1. LLM: llama-index + postgresSQL DB 연결하는 것을 완료했습니다.
 * PEFT 데이터셋 hugging face에 업로드 [kakao QnA dataset](https://huggingface.co/datasets/Dansoeun/Kakao_fine_tun_dataset), [naver QnA dataset](https://huggingface.co/datasets/Dansoeun/Naver_fine_tun_dataset)
-*  GPU 서버로 PEFT를 진행하려 했으나 사용에 에러가 있어 잠시 차질이 있음.
-*  기존 데이터셋은 적으나 점차 늘려서 학습하는 방식으로 진행할 예정
-*  정확도를 끌어올린 이후에는 경량화 초점으로 맞춰 갈지 논의해야할 사항.
-4. ChatBot: 크롤링 + Transformer 모델 구축으로 연결할 예정
-* 크롤링 모델을 고안했지만 아직 미숙함이 있음.
-* 
+*  GPU 서버로 PEFT-Lora 진행중입니다.
+*  기존 데이터셋은 적으나 점차 늘려서 학습하는 방식으로 진행할 예정입니다.
+*  정확도를 최소점까지 끌어올린 후 경량화 초점으로 맞춰 갈지 논의해야할 사항입니다.
+*  기술문서 및 논문은 참조중입니다. llama-index 공식문서를 활용을 주로 해왔습니다.
+2. ChatBot: 크롤링 + Transformer 모델 구축으로 연결할 예정입니다.
+* 크롤링 모델을 고안했지만 아직 세부 정보까지 끌어오진 못했습니다.
+
+
+3. BE: flask-ai 모델 서빙 하는 것, 로그인 코드를 작성중입니다. 세션 로그인 방식으로 완성할 예정입니다. 
+
+
+
+##Need | Support
+-----
+*데이터셋을 많이 구비해야하는데, 직접 만들기 보다 자동화할 수 있거나 구할 수 있는 곳이 있을지 문의드리고 싶습니다. 
