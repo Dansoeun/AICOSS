@@ -13,7 +13,7 @@
 - 한 사이트에 여러 개의 챗봇이 들어갈 수 있는 경량화 기법(Tensor RT)을 고안.
 ### 2. **창업**
 - 기존 개발품을 사업화. 
-- [비즈니스 모델 안내]()
+- [비즈니스 모델 안내](https://drive.google.com/file/d/1BmPgCuYY-XsLpPHRYTZ7x-b6TMMGXyjG/view?usp=drive_link)
 
 ## 프로젝트 기술
 ---
