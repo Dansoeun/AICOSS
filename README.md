@@ -38,7 +38,11 @@
 
 ## 참고자료
 ---
-- **LLM**: llama-index 공식 문서 활용. [Zero Shot Prompt thesis](https://arxiv.org/pdf/2309.03409)
+- **LLM**:
+- llama-index 공식 문서 활용.
+- [Zero-Shot Code Representation Learning via Prompt Tuning](https://arxiv.org/pdf/2404.08947)
+- [LARGE LANGUAGE MODELS AS OPTIMIZERS](https://arxiv.org/pdf/2309.03409)
+- [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916)
 - **백엔드**: [스프링부트 공식문서](https://docs.spring.io/spring-framework/reference/index.html)
 
 <div align="center">
