@@ -2,29 +2,33 @@
 --- 
 ## 구성 요소
 ---
-- **LLM**: 각 계열사의 정보를 안내.
-- **날씨 챗봇**: 날씨 정보에 대한 챗봇 구현.
+- **LLM**: 경북대 학교 정보 안내 LLM. (사용 모델:[beomi/Llama-3-Open-Ko-8B](https://huggingface.co/beomi/Llama-3-Open-Ko-8B?text=%EB%84%8C+%EB%A9%8D%EC%B2%AD%EC%9D%B4))
+- **경북대 챗봇**: 날씨 정보에 대한 챗봇 구현.
 - **로그인 기능**: 사용자 질의 응답 저장을 위한 로그인 기능 구현.
+- **Vector DB (Postgresql DB)**: 응답 속도를 향상시키기 위한 DB.
 
 ## 프로젝트 방향성
 ---
-### 1. **개발용역**
-- 관련 계열사 정보 크롤링하여 챗봇 형태로 제공하는 방안 검토 ex)WiseNut 등 챗봇 전문 회사와 협업하여 납품하는 방향성도 존재.
-- 한 사이트에 여러 개의 챗봇이 들어갈 수 있는 경량화 기법(Tensor RT)을 고안.
-### 2. **창업**
-- 기존 개발품을 사업화. 
+###  **창업**
+- 경북대 학교 정보 안내로 제공
+- 수요조사 결과 사용 의향: 97.6% (40/41)
+- 일부 유료화 시 사용 의향: 26.8% (11/41)
+- 지분 분담 혹은 아이템 판매 형식으로 아이디어 구상을 가짐.
 - [비즈니스 모델 안내](https://drive.google.com/file/d/1BmPgCuYY-XsLpPHRYTZ7x-b6TMMGXyjG/view?usp=drive_link)
+- [PRD 문서 안내]()
+- [MRD 문서 안내]()
 
 ## 프로젝트 기술
 ---
 **1. LLM**: llama-index와 PostgreSQL DB 연동 완료.
-- PEFT 데이터셋: Hugging Face에 업로드. [kakao QnA dataset](https://huggingface.co/datasets/Dansoeun/Kakao_fine_tun_dataset), [naver QnA dataset](https://huggingface.co/datasets/Dansoeun/Naver_fine_tun_dataset)
-- GPU 서버: PEFT-Lora 진행 중.
--  학습 데이터셋 점진적 확장 후 학습시키는 방식으로 진행 예정.
--  정확도를 최소점까지 끌어올린 후 경량화 초점으로 맞춰 갈지 논의해야할 사항(정확도 VS 경량화).
+- PEFT 데이터셋: Hugging Face에 업로드. [KNU dataset](https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset)
+- GPU 서버: Zero-Shot-Prompt 진행중
+-  Vector DB 연결은 GPU 서버 사용 중단으로 진행이 더딤.
+-  
 
 **2. ChatBot**: 크롤링 + Transformer 모델 구축으로 연결 예정.
-- 크롤링 모델을 고안했지만 아직 세부 정보까지 끌어오진 못했습니다.
+- 스크래핑: 현재 학사 일정과 컴퓨터학부 교수진들 모았습니다. (ChatBot-Scrapping )
+- 챗봇:
 
 **3. Back_End**: Flask-AI를 통한 모델 서빙, 세션 기반 로그인 구현 예정 
 - Flask_AI 연동을 시도하였으나, python과 ipynb의 연동 문제 발생.
@@ -34,7 +38,7 @@
 
 ## 참고자료
 ---
-- **LLM**: llama-index 공식 문서 활용.
+- **LLM**: llama-index 공식 문서 활용. [Zero Shot Prompt thesis](https://arxiv.org/pdf/2309.03409)
 - **백엔드**: [스프링부트 공식문서](https://docs.spring.io/spring-framework/reference/index.html)
 
 <div align="center">
@@ -56,5 +60,5 @@
 
 ## Need | Support
 -----
-- 데이터셋을 많이 구비해야하는데, 직접 만들기 보다 자동화할 수 있거나 구할 수 있는 곳이 있을지 문의드리고 싶습니다. 
-- 현재 Flask-AI 연동을 해야하는데 flask에서 ipynb 접근 방식을 어떻게 처리해야 할지 문의드립니다.
+- 
+- 
