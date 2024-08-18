@@ -1,0 +1,1470 @@
+＃학사 정보 안내 
+1. 경북대학교 공식 홈페이지 (https://www.knu.ac.kr/wbbs/wbbs/main/main.action)
+    - 대학소개
+        - 경북대 소개
+            - KNU 연혁
+            - KNU오늘
+            - 교육 목표
+            - 대학 현황
+            - 인포그래픽
+        - 총장실
+            - 인사말
+            - 총장프로필
+            - 역대 총장
+        - 캠퍼스 안내
+            - 찾아오는 길(대구, 상주 캠퍼스)
+            - 의대/간호대/치대 오는길
+            - 등교 및 셔틀버스 운행
+            - 주차 안내
+            - 사이버 투어
+            - 견학 안내
+        - 상징
+            - 학교상징
+            - 로고 및 UI
+            - 서체
+            - 캐릭터
+            - 서식류
+            - PPT 템플릿
+            - UI 관리지침
+        - 찾기
+            - 교수, 직원 찾기
+            - 전화번호 안내
+            - 교내 사이트 안내
+            - 교외 사이트 안내 (통계청, 특허청, 여가부, 법무부 등)
+        - 조직도 및 연락처 (학교 조직도 확인 가능 + 조직도 클릭시 해당 사이트 이동)
+        - 규정집/예규집 (https://knuin.knu.ac.kr/public/gnrdm/estrl.knu)
+            1. 학칙, 규정 확인 가능
+    - 입학
+        - 대학
+            - 입학처 (https://ipsi1.knu.ac.kr/main/)
+            - 수십 모집
+            - 정시 모집
+            - International Admissions
+            - 공지사항
+        - 대학원
+            - 대학원 입학처 (https://ipsi2.knu.ac.kr/main/)
+            - 공지사항
+            - Q&A
+        - 전문대학원
+            - 공지사항
+            - Q&A
+        - 특수대학원
+            - 공지사항
+            - Q&A
+    - 교육
+        - 대학/대학원
+            - 대학소개
+            - 대학원 소개
+            - 전문대학원 소개
+            - 특수대학원 소개
+        - 학사행정
+            - 학사공지
+            - 학사일정
+            - 학사안내
+            - 교육과정편람 (https://knuin.knu.ac.kr/public/stddm/edu.knu)
+            - 수업시간/강의계획서 (https://knuin.knu.ac.kr/public/stddm/lectPlnInqr.knu)
+            - 수강 신청 (https://sugang.knu.ac.kr/login.knu)
+                - 수강 꾸러미(https://sugangpack.knu.ac.kr/login.knu)
+            - 시간제 등록생
+        - 교육지원
+            - 도서관 (https://kudos.knu.ac.kr/pages/index.htm)
+            - 학습지원센터 (https://ctl.knu.ac.kr/web/main/main.php)
+            - 학습관리시스템 (https://lms1.knu.ac.kr/)
+            - IT교육센터 (https://oz.knu.ac.kr/hmpg/main/main.knu)
+            - 언어교육센터 (https://lang.knu.ac.kr/hmpg/main/main.knu)
+            - International Writing Center (https://iwc.knu.ac.kr/)
+            - 스마트러닝센터 (https://slc.knu.ac.kr/)
+            - 한국어 문화원 (https://klrc.modoo.at/)
+        - 정부재정지원사업
+            - 국립대학육성사업 (https://knu2030.knu.ac.kr/)
+            - 지자체-대학협력기반지역혁신사업(RIS) (https://www.dgplatform.or.kr/dgPlatForm/main.do)
+    - 연구/산학
+        - 연구소소개 (각 분야별 연구소 링크(개많네 진짜 나중에)
+        - 우수연구자소개
+        - KNU연구자정보 (https://research.knu.ac.kr/)
+        - 연구업적조회
+        - 건전학회/학술지조회
+        - 학술지검색/연구성과분석
+        - 연구산학처(산학협력단)
+            - 4단계 BK21사업 (https://knubk21four.knu.ac.kr/)
+        - 산단통합연구행정지원시스템 (https://iams.knu.ac.kr/login)
+        - 공동실험실습관
+    - 국제화 (국제 교류 사이트)
+    - 대학생활/취업
+        - 진로/취업 (https://knujob.knu.ac.kr/)
+        - 창업교육 (https://iac.knu.ac.kr/changup/)
+        - 학생활동
+            - 총학생회/총동아리연합회
+            - 대학언론
+        - 학생지원
+            - 장학, 학자금대출 (https://ssw.knu.ac.kr/)
+            - 복지, 편의 시설
+            - 학생의료공제회
+            - 장애학생지원센터
+            - 교내식당메뉴 (https://coop.knu.ac.kr/sub03/sub01_01.html?shop_sqno=46&selDate)
+            - 학생상담센처 (https://counsel.knu.ac.kr/main/index.html)
+        - 인터넷증명발급 (https://knu.certpia.com/)
+        - 봉사
+            - 봉사활동
+            - 자원봉사센터 (https://volunteer.knu.ac.kr/)
+        - 학생예비군
+    - 공지
+        - 공지사항
+        - 행사
+        - 교외행사
+        - 경북대채용
+            - 채용
+            - 강사채용
+        - 교육수요자만족도
+    - 대학 홍보
+        - 뉴스
+            - 포토뉴스
+            - KNU인물
+            - 언론으로 본 KNU
+        
+        경북대 대학홍보 사이트 (https://knupr.knu.ac.kr/)
+        
+        - 경북대웹진 (https://webzine.knu.ac.kr/)
+        - 경북대소식
+        - 사이버투어
+        - 캠퍼스투어신청
+        - 홍보영상 (https://www.youtube.com/playlist?list=PLiXYi24z8biKescHq-SpBMYNMEch790S3)
+        - 홍보책자
+1. 통합 정보 시스템 (https://knuin.knu.ac.kr/webview/main/Main.knu)
+    - 학적
+        - 학적정보관리
+            - 학적 기본 사항 관리
+            - 개인정보 변경
+            - 개인정보 변경 신청
+            - 학적기재사항정정신청
+            
+        - 학적변동관리
+            - 휴학 신청
+            - 복학 신청
+            - 귀향 신청
+            - 자퇴 신청
+            - 전과원서접수
+            
+        - 전공 관리
+            - 자율전공부학과배정신청
+            - 자율전공부학과선호도조사
+            - 전공배정신청
+            - (통합)연계 과정 신청
+            - (통합)연계 과정 포기 신청
+            - (통합)연계 과정 진학 신청
+            - 마이크로 전공 신청
+            
+        - 다전공관리
+            - 복수전공신청
+            - 복수전공 이수 포기 신청
+            - 부전공 신청
+            - 연계전공 신청
+            - 융합 전공 신청
+            - 연계/융합 전공 이수 포기 신청
+            
+        - 증명관리
+            - 증명서위임장발급
+    - 졸업
+        - 졸업 예정자 관리
+            - 조기 졸업 신청
+            - 학사학위취득유예신청
+        - 졸업인정 (대학)
+            - 졸업자격인정신청
+        - 졸업자가진단안내
+    - 교직
+        - 자격 이수 관리
+            - 교직 과정 이수 신청
+        - 교원자격무시험검정
+            - 예비교원자격사정관리 (학생용)
+            - 교원자격무시험검정신청
+        - 교직적성 및 인성검사관리
+            - 교직적성 및 인성검사 신청
+            - 고사장 유의 사항 확인
+            - 교직적성 및 인성검사 결과 조회
+        - 응급처치 및 심폐소생술 실습
+            - 응급처치 및 심폐소생술 실습 신청
+            - 응급처치 및 심폐소생술 실습 결과 조회
+        - 성인지교육
+            - 성인지 교육 신청
+            - 성인지 교육 결과 조회
+        - 교육실습관리
+            - 교육실습범죄이력조회동의등록
+        - 교육봉사활동관리
+            - 교육봉사활동입력
+    - 수업
+        - 강의 계획서 및 시간표 관리
+            - 수업 시간표 및 강의 계획서 조회
+        - 수업 진행 관리
+            - 조기 취업자 출석 인정 신청
+    - 장학
+        - 계좌 관리
+            - 계좌 입력
+        - 본부 우선 선발 장학(고정 장학)
+            - 본부우선선발장학대상자장학금신청
+        - 학생 신청 장학
+            - 장학금 신청서
+        - 교내 봉사 장학
+            - 교내봉사장학신청
+            - 교내봉사장학근무보고일지작성
+        - 튜터 장학
+            - 튜터개설신청
+            - 과외희망수강신청
+            - 튜터봉사활동증명서
+        - 증명서 관리
+            - 장학수혜증명서출력
+            - 장학비수혜증명서출력
+        - 학생 의료비 관리
+            - 의료공제신청
+            - 건강검진확인서출력신청
+    - 수강
+        - 수강신청
+            - 수강정원변경원신청
+            - 수강취소신청
+            - 수강정정신청
+            - 수강꾸러미신청과목조회
+            - 시간표조회
+            - 수강가능학점조회
+    - 수업강의평가
+        - 강의평가관리
+            - 강의평가공개
+            - 강의평가
+    - 학생지원
+        - 학생증발급관리
+            - 학생증발급신청
+            - 국제학생증발급신청
+        - 국내교류학생관리
+            - 타대학수학신청
+        - 예비군대원관리
+            - 예비군대원신고
+        - 장애학생정보
+            - 장애학생 지원신청(학생용)
+        - 장애학생교육활동지원사업
+            - 교육지원인력활동신청(학생용)
+            - 출근부 입력
+            - 출근부 승인
+        - 현장실습
+            - 이수실적증명서
+    - 국제교류
+        - 국제교류학생관리
+            - 외국대학교환학생신청
+            - 복수학위신청
+            - 계절제단기교환학생신청
+            - 개별어학연수신청
+            - 국제화프로그램 설문조사
+    - 성적
+        - 학기성적
+            - 이수성적조회
+        - 기타성적
+            - 기타성적 학점인정 신청(해외교환, 해외복수)
+            - 기타성적 학점인정 신청(개별어학연수)
+            - 기타 성적 학점인정 신청(비교과 글로벌 리더십)
+        - 교과구분관리
+            - 증명성적 교과구분 변경 신청
+    - 등록
+        - 등록금 관리
+            - 차등납부신청
+            - 분납신청
+            - 고지서 조회
+            - 납입 확인서
+        - 계절학기 수강료 관리
+            - 계절학기고지서
+    - 공학인증
+
+#도서관 사이트 
+# 도서관
+
+1. 검색
+    1. 소장검색
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641346515
+            
+    2. 전자자원 통합검색
+        - 
+            
+            https://knu.summon.serialssolutions.com/ko-KO/search?ho=t&q=#!/search?ho=t&include.ft.matches=f&l=ko-KO&q=
+            
+    3. 전자저널
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641346532
+            
+    4. 학술DB
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1706502180
+            
+    5. 학위논문 검색
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641346578
+            
+    6. ebook
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641542426
+            
+    7. eLearning
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641346713
+            
+    8. KNU컬렉션
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641346727
+            
+2. 연구학습지원
+    1. 학습지원
+        1. 수업자료
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641795099
+                
+        2. 지정도서
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641795113
+                
+        3. 학과전담서비스
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641346806
+                
+    2. 연구지원 가이드
+        1. 연구 단계별 가이드
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1660277702
+                
+        2. 학과별 주제가이드
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641545453
+                
+    3. 연구지원 서비스
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1660277732
+            
+        1. 맞춤형 연구조사방법 지원 서비스
+        2. 논문 맞춤형 우수 해외 학술지 추천 서비스
+        3. 우수 해외 학술지 투고 지원 서비스
+    4. 이용교육
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641346762
+            
+        1. 이용교육 가이드
+        2. 이용교육 전체목록
+        3. 학술DB이용교육
+        4. 도서관 이용교육
+        5. 이용교육 동영상
+        6. 맞춤형교육
+        7. 마감된 이용교육
+    5. 서지관리
+        1. 서지관리도구
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641802944
+                
+        2. 참고문헌작성방법
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641805983
+                
+    6. 표절예방
+        1. Turnitin
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641802866
+                
+        2. 연구윤리
+    7. 학위논문제출
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641805974
+            
+3. 자료이용
+    1. 대출/ 반납/연장/연체 안내
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642678074
+            
+    2. 이용자별안내(재학생, 수료생, 교직워느 졸업생, 외부이용자)
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641806111
+            
+    3. 자료이용신청
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641861879
+            
+        1. 우선정리 신청 안내
+        2. 보존자료
+        3. 캠퍼스간 자료 대출
+        4. 교수 대출도서 배달
+    4. 희망자료구입신청
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641346956
+            
+    5. 상호대차 신청, 상호대차 신청내역
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641863999
+            
+    6. 원문복사
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641864064
+            
+    7. 국회/국중자료이용
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641347066
+            
+    8. 타도서관열람신청 안내
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641346980
+            
+    9. 장애인 서비스
+        1. 책나래서비스
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641887709
+                
+        2. 도서 pickup 서비스
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641887723
+                
+        3. 장애학생 대출도서 교내배달서비스
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641887734
+                
+        4. 장애학생 학습보조 시설 및 장비
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1678241674
+                
+4. 시설이용
+    1. 층별/신관/분관
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642726244
+            
+    2. Learning Commons
+        - 
+            
+            https://kudos.knu.ac.kr/cybertour/tour_all.htm
+            
+    3. 좌석/시설물안내
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641896531
+            
+    4. 이용시간
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641347056
+            
+    5. 인쇄/스캔/복사/무선인터넷
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641347114
+            
+    6. 모바일서비스
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641347123
+            
+    7. 학외접속
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641347132
+            
+5. 커뮤니티
+    1. 도서관 소개
+        1. 연혁, 규정, 조직, 통계, 분류, 찾아오시는길
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641964158
+            
+    2. 공지사항
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641347165
+            
+    3. 도서관 일정
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1643076055
+            
+    4. 홍보/ 보도자료
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642733083
+            
+    5. QnA/FAQ/ 서비스별 연락처
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642733226
+            
+    6. 독서문화프로그램
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642733226
+            
+        1. NEWBOOKS 인터뷰
+        2. 문화프로그램
+        3. 프로그램 신청
+        4. BookTalk
+    7. 도서관 견학
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1657702827
+            
+    8. 기부/기증
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642053153
+            
+    9. 사이트내 검색
+6. My Library
+    1. Dashboard
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642061541
+            
+    2. 대출/연장/예약/제재현황
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1643006233
+            
+    3. 자료이용 신청현황
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1643006357
+            
+        1. 우선정리 신청현황
+        2. 보존자료 신청현황
+        3. 캠퍼스간 자료대출현황
+    4. 희망자료구입 신청현황
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641347314
+            
+    5. 이용교육 신청현황
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641809463
+            
+    6. 프로그램 신청현황
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641809485
+            
+    7. 연구지원서비스 신청현황
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1661144907
+            
+        1. 맞춤형 연구조사방법지원 서비스 신청
+        2. 논문 맞추형 우수 해외 학술지 추천 서비스 신청
+        3. 우수 해외 학술지 투고 지원 서비스 신청
+    8. 시설물 예약 현황
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1644289868
+            
+    9. 상호대차.원문복사 신청현황
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1643006503
+            
+    10. 나의 공간
+        1. 나의서평
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642145585
+                
+        2. 나의서재
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642145596
+                
+        3. 나의알림
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642145606
+                
+        4. 맞춤정보 알림서비스
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1643006637
+                
+        5. 나의 질의응답
+            - 
+                
+                https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642145535
+                
+    11. 개인정보관리
+        - 
+            
+            https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641347267
+            
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+1. 경북대학교 도서관
+    1. https://kudos.knu.ac.kr/pages/index.htm
+    - 검색 기능
+        - 도서관 내 소장 검색, 전자 저널, 학술 DB, 학위논문 검색
+        - ebook, eLearning 이용 안내 및 방법
+        - KNU컬렉션
+    - 연구학습지원 기능
+        - 학습지원 및 연구지원 가이드와 서비스 안내
+        - 연구학습지원 이용 안내
+        - 표절 예방 및 서지 관리 내용 안내
+        - 학위논문제출 안내
+    - 자료 이용
+        - 대출, 반납, 자료이용 및 희망자료구입, 타도서관열람 신청
+        - 이용자별 안내 및 장애인 서비스 안내
+        - 상호대차 가능
+        - 원문 복사 기능
+        - 국회, 국중자료 이용
+    - 시설 이용
+        - 층별/신관/분관 시설 이용 방법,
+        - 좌석 및 시설물 안내
+        - 인쇄,스캔,복사,무선인터넷, 모바일서비스 이용 방법
+        - 학외접속
+    - 정보확인
+        - 대출, 연장,예약,제재, 자료 이용 현황
+        - 희망자료 구입, 이용교육 신청, 프로그램 신청, 연구지원서비스 신청,
+        - 시설물 예약
+        - 상호대차 및 원문복사 신청 현황
+2. 전자자원 통합 검색
+    1. https://knu.summon.serialssolutions.com/ko-KO/search?ho=t&q=#!/search?ho=t&include.ft.matches=f&l=ko-KO&q=
+    - 온라인 DB, 전자 저널, 학술 논문 검색 가능
+3. Learning Commons
+    1. https://kudos.knu.ac.kr/cybertour/tour_all.htm
+    - 도서관 내부의 위치와 전경
+4. 국내 ebook
+    1. https://e-book.knu.ac.kr/elibrary-front/main.ink
+    - ebook 소장 검색
+    - ebook 대출 및 예약 현황
+    - 전자 도서관 및 모바일, pc 사용 안내
+
+https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641802866
+
+https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642678074
+
+https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641863999
+
+#경북대 사업단 사이트
+https://aic.knu.ac.kr/
+**인공지능혁신융합사업단**
+
+인공지능혁신융합사업단은 문제해결능력을 갖춘 창의적 인재양성과 AI 기반의 미래 선도 융합산업을 지원하기 위한 고급 인재양성을 목적으로 설립되었습니다.
+인공지능혁신융합사업단은 ICT, 스마트시티, 로봇, 자동차 분야에 특화되어있습니다.
+인공지능혁신융합사업단은 교육부 및 한국연구재단 산하의 사업단으로, 2021년 5월 1일부터 2027년 2월 28일까지 6년간 진행되는 사업입니다.
+인공지능혁신융합사업단에 지원되는 사업비는 총 612억 원으로 연 102억원 입니다.
+인공지능혁신융합사업단에서 추진하는 내용은 공동운영 18개 교과목 및 특성화 20개 교과목 등 38개 교과목의 MOOC기반의 공유입니다.
+인공지능혁신융합사업단은 공유 활성화를 위한 학사제도 개선 및 교원,학생 참여 제고 등을 하고있습니다.
+인공지능혁신융합사업단은 기능연계형 및 지역연계형 교육모델을 통한 사업성과 확산을 추진하고 있습니다.
+인공지능혁신융합사업단은 ICT(가전), 모빌리티 AI분야의 인공지능 핵심 교과 컨텐츠를 개발하려 하고 있습니다.
+인공지능혁신융합사업단은 인공지능분야의 우수 전임교수를 확충하려 하고있습니다.
+인공지능혁신융합사업단은 AI 비전공자 대상 강의 방법 개발을 하려 하고있습니다.
+인공지능혁신융합사업단 웹사이트를 통해 인공지능 교과목의 요약 및 강의계획서 등을 확인 할 수 있습니다.
+인공지능혁신융합사업단에서는 COSS마일리지 및 장학금을 지급하고 있습니다.
+
+==============================
+https://knucore.knu.ac.kr/
+**CORE사업단**
+경북대학교 인문역량강화 사업단입니다.
+
+경북대학교 인문역량강화 사업단에서는 대학인문역량강화 사업을 통해 인문학 진흥을 꾀합니다.
+CORE사업단에서는 글로벌지역학모델, 인문기반 융합전공모델, 기초학문심화모델의 세가지 모델을 운영하며 인문학의 진흥을 꾀하고 있습니다.
+
+==============================
+https://swedu.knu.ac.kr/main/index.html
+**소프트웨어교육원**
+
+소프트웨어교육원은 SW중심사회 실현을 위한 실무형/융합형/리더형 인재를 양성하기 위한 목적으로 설립되었습니다.
+소프트웨어교육원을 통해 SW기초교육, SW융합교육 등을 이수할 수 있습니다.
+소프트웨어교육원 웹사이트를 통해 어떠한 SW기초교육, SW융합과목 중 어떠한 과목을 이수할 수 있는지 확인할 수 있습니다.
+소프트웨어교육원을 통해 온라인 교육을 이수할 수 있습니다.
+
+==============================
+https://lang.knu.ac.kr/hmpg/main/main.knu
+**경북대학교 언어교육센터**
+
+언어교육센터에서는 외국어교육,정기모의토익 및 한국어연수를 진행합니다.
+언어교육센터 웹사이트를 통해 수강하는 과목을 확인하고, 모의시험을 응시하거나 증명서를 발급받을 수 있습니다.
+언어교육센터 웹사이트를 통해서 언어교육 수강신청하는 것도 가능합니다.
+
+==============================
+https://iac.knu.ac.kr/
+**경북대학교 산학협력단**
+
+경북대학교 산학협력단은 산업교육진흥 및 산학연협력촉진에 관한 법률에 의하여 설립된 법인으로써 산학연협력에 관한 업무를 관장합니다.
+경북대학교 산학협력단은 국제학술연구논문 교정신청이 가능합니다.
+경북대학교 산학협력단은 학술지 논문게재료를 지원해줍니다.
+경북대학교 산학협력단을 통해 국제 학술대회 참가경비를 지원받을 수 있습니다.
+경북대학교 산학협력단을 통해 학술대회 개최경비를 지원받을 수 있습니다.
+경북대학교 산학협력단에서는 연구관리 서비스를 제공합니다.
+경북대학교 산학협력단에서는 과제공모 및 정보 제공 등 연구가이드를 제공합니다.
+
+==============================
+https://linc.knu.ac.kr/
+**산학협력선도대학(LINC)사업단**
+
+경북대학교 LINC3.0 사업단은
+2022년 교육부 주관 3단계 산학연협력 선도대학 육성(LINC3.0)사업 기술혁신선도형 수행 사업 기관으로 선정되어 산•학•연간 공유협업을 통해 새로운 시대의 혁신을 선도하는 산학협력 글로벌 리더역할을 수행하고 있습니다.
+경북대학교 LINC3.0 사업단은 인재양성(교육, 캡스톤디자인, 현장실습 등),지역기술 중심 기술사업화 · 실용화, 네트워킹 · 공유 · 협력, LINC 3.0 사업단의 산학협력 실행력 강화를 추진하고 있습니다.
+
+==============================
+https://amppc.knu.ac.kr/
+**경북대학교 공공기관 경영자과정**
+
+경북대학교 경제경영연구소(공공기관 연구센터)
+공공기관 경영자과정은 공공기관 연구센터 및 경영학부가 주도합니다.
+공공기관 경영자과정은 지식과 평가에 기초한 강의, 네트워크에 초점을 맞춘 리더십과 활동, 치우치지 않고 균형잡힌 교육을 지향합니다.
+
+==============================
+https://eclass.dg.udec.kr/main
+**경북대학교 공동교육혁신센터**
+
+경북대학교 공동교육혁신센터는 대학 간 우수 교육자원을 공유하고, 교류와 협력을 통해 공동 발전하여 대학교육의 혁신을 추진합니다.
+
+경북대학교 공동교육혁신센터는 대구, 경북권역 원격교육 학점 교류를 담당하는 기관입니다.
+경북대학교 공동교육혁신센터사이트에서는 원격교육 학점 교육을 위한 문서로 된 학습자, 교수자 매뉴얼이 나뉘어 준비되어있고, 동영상 매뉴얼의 형태 또한 준비되어 있습니다.
+경북대학교 공동교육혁신센터 사이트를 통해, 학점 교류가 가능한 과목들을 확인하고, 각 강의에 대한 정보를 확인할 수 있습니다.
+경북대학교 공동교육혁신센터 사이트를 통해 신청 기간 동안 학점 교류가 원하는 강좌를 신청할 수 있습니다.
+
+==============================
+https://kpcl.knu.ac.kr/
+**경북대학교 공동실험실습관**
+
+경북대학교 공동실험실습관 사이트에서 교육에 필요한 기기를 사용 신청하는 것이 가능합니다.
+경북대학교 공동실험실습관 사이트에서 개인이 예약한 기기를 확인하는 것이 가능합니다.
+경북대학교 공동실험실습관 사이트에서 사용자의 사용요금을 결제하는 것이 가능합니다.
+경북대학교 공동실험실습관에서 보유하고 있는 기기를 검색을 통해 찾을 수 있고, 기기 상태 및 예약현황, 담당자 등을 확인하는 것이 가능합니다.
+경북대학교 공동실험실습관에서 진행하는 세미나에 대한 참가 신청 및 수시교육에 대한 참가신청을 경북대학교 공동실험실습관 홈페이지를 통해서 할 수 있습니다.
+경북대학교 공동실험실습관에 대한 견학 신청이 가능합니다.
+경북대학교 공동실험실습관에서 사용자들을 대상으로 수요조사를 진행하여, 필요한 기자재 및 모델명을 신청받습니다.
+경북대학교 공동실험실습관에서 사용자들을 대상으로 만족도조사를 진행하여, 사용자들이 서비스에 충분히 만족하고 있는지 확인합니다.
+
+==============================
+http://seigy.knu.ac.kr/
+**경북대학교 과학영재 교육원**
+
+경북대학교 과학영재 교육원은 지역과학영재를 위한 교육환경 조성 및 연계성 있는 과학영재 교육기회 제공, 국가 및 지역에 공헌하는 과학영재 육성, 과학영재의 자아실현을 목표로 운영하는 기관입니다.
+경북대학교 과학영재 교육원 사이트에서는 경북대학교 과학영재 교육원에서 진행하는 교육의 내용을 확인할 수 있습니다.
+경북대학교 과학영재 교육원 사이트에서는 선발 단계별 합격자를 확인하고, 선발에 대한 사항을 공지합니다.
+경북대학교 과학영재 교육원 사이트에서는 교육원 소속 학생들을 대상으로 안내사항을 공지합니다.
+
+==============================
+https://ged.knu.ac.kr/
+**경북대학교 교육혁신본부 교양교육센터**
+
+교육혁신본부 교양교육센터는 경북대학교 교육혁신본부의 부속기관으로서 교양교육과정의 운영과 개선을 주요 업무로 합니다.
+교육혁신본부 교양교육센터에서 운영중인 교양교육과정은 첨성인기초, 첨성인핵심, 첨성인소양이라는 세 영역에 전체 350여개의 교과목으로 이루어져 있습니다.
+또한, 해당 사이트에서 교수진과 교양과목 강의계획서를 확인할 수 있습니다.
+
+==============================
+https://oei.knu.ac.kr/
+**경북대학교 교육혁신본부**
+
+교육혁신본부에서는 본부 산하의 각 센터가 담당하는 업무를 유기적으로 통합하고 상호보완하며, 이를 통하여 새로운 교육과정과 프로그램을 개발하고 보급하는데 주력할 것입니다.
+
+==============================
+https://www.knupresscenter.com/index.html?editcode=MAIN_14
+**경북대학교 교육방송국**
+
+==============================
+[https://www.knupresscenter.com](https://www.knupresscenter.com/)
+**경북대학교 신문방송사**
+
+경북대학교 신문방송사는 경북대신문과 경북대교육방송을 주관합니다.
+
+==============================
+https://tcedu.knu.ac.kr/
+**경북대학교 교육연수원**
+
+경북대학교 교육연수원은 현직 중학교 교원과 특수학교, 중등 및 고등과 교원의 기본 자질을 향상시키고 새로운 교육 기술을 습득시켜 민주적인 문제해결 능력을 배양하며, 우리나라 교육발전에 보다 효율적으로 기여하는데 그 목적을 두고 있습니다.
+경북대학교 교육연수원은 사범대학을 비롯하여 교직과정 및 교육대학원 학생들의 교직과정 이수와 교육실습을 효과적으로 지도함을 목적으로 하고 있습니다.
+
+==============================
+https://archives.knu.ac.kr/
+**경북대학교 대학기록관**
+
+경북대학교의 교사자료수집과 대학내의 공공기록물을 담당하는 기관으로서 대학의 교사자료와 공공기록물을 체계적으로 수집하고 보존하며, 공공기관의 기록물 수집이라는 국가적 사업에 적극 협력하고 대학사 편찬, 대학발전 계획 수립 등에 필요한 경험적 사료를 제공합니다.
+
+==============================
+https://www.lac.or.kr/
+**레이저응용기술센터**
+
+레이저 응용 기술센터는 레이저 기술을 통한 국가산업 경쟁력 강화를 지원하는 전문거점 센터입니다.
+레이저응용기술센터에서는 기술, 장비 및 서비스를 지원합니다.
+레이저응용기술센터를 통해서 장비의 이용방법을 소개받을 수 있습니다.
+레이저응용기술센터 홈페이지를 통해 레이저 관련 세미나 및 교육을 받을 수 있습니다.
+
+==============================
+https://isft.knu.ac.kr/
+**경북대학교 반도체융합기술연구원**
+
+반도체융합기술연구원에서는 기업맞춤형 연구개발 및 현장인력 재교육사업, 신규인력 양성사업, 전자소자 기술분야 연구 등을 진행하고 있습니다.
+반도체융합기술연구원 소속의 센터로는 센서기술연구센터, 반도체공정교육및지원센터, 디스플레이기술연구센터, LED응용연구센터, 센서및디스플레이공학과가 있습니다.
+반도체융합기술연구원 웹사이트를 통해 연구원에서 보유하고있는 장비를 대여하거나, 장비 및 시설물을 확인할 수 있습니다.
+반도체융합기술연구원 웹사이트를 통해 관련된 규정 및 지침을 확인할 수 있습니다.
+
+=============================
+http://www.hlc.or.kr/
+**경북대학교 산업현장 기술지원센터**
+
+산업현장 기술지원센터에서는 기술상담실 및 기술토론회, 기술조사분석사업을 통해 사업을 추진하고 있습니다.
+산업현장 기술지원센터에서는 중소기업과 자문교수를 연결짓는 기술상담 가이드 서비스를 진행하고 있습니다.
+산업현장 기술지원센터를 통해서 우수자문사례를 확인할 수 있습니다.
+산업현장 기술지원센터 웹사이트를 통하여 교수기술력정보를 확인할 수 있습니다.
+
+=============================
+
+https://farm.knu.ac.kr/
+
+**경북대학교 생태환경대학 부속목장**
+
+부속목장은 축산강의 관련 실험 및 실습 교육 지원, 축산 기술개발 관련 연구지원, 교육과 연구의 효율적 지원을 위한 목장 환경 개선, 축산분야 산.학.관.연 협력사업 지원을 목적으로 설립되었습니다.
+
+부속목장은 축산강의 관련 실험 및 실습 교육을 지원합니다.
+
+부속목장은 축산 기술개발 관련 연구를 지원합니다.
+
+부속목장은 교육과 연구의 효율적 지원을 위한 목장 환경을 개선합니다.
+
+부속목장은 축산분야 산.학.관.연 협력사업을 지원합니다.
+
+부속목장은 2009년 2월 27일에 설립되었습니다.
+
+부속목장 사이트를 통해 교육연구용 포장 및 시설이용방법을 확인할 수 있습니다.
+
+부속목장 사이트를 통해 부속목장 견학, 체험 신청서, 업무지원서, 장비지원신청서, 시설물 및 실습포장 사용 신청서의 서식을 다운로드할 수 있습니다.
+
+부속목장 사이트를 통해 부속목장의 규정 및 공지사항 및 자료실을 확인할 수 있습니다.
+
+=============================
+
+https://slc.knu.ac.kr/
+
+**스마트러닝센터**
+
+스마트러닝센터는 효율적인 교수·학습 능력 향상을 위해 원격수업 콘텐츠를 개발하고 있습니다.
+
+스마트러닝센터는 학습자 참여 중심의 우수한 교육 콘텐츠를 개발하고 고융하고 있습니다.
+
+스마트러닝센터는 미래지향적 교육환경 구축을 지원하고 있습니다.
+
+스마트러닝센터는 원격 콘텐츠 수업의 개발을 지원하고 있습니다.
+
+스마트러닝센터의 원격 콘텐츠 수업 개발과정은 다음과 같습니다 : 원격수업 콘텐츠 개발 신청 접수 및 선정평가 → 오리엔테이션 실시 → 교안 저작권 검토 → 영상 촬영 및 편집 → 최종 영상 출력물 검토 및 안내 → LCMS 탑재 안내 및 지원
+
+스마트러닝센터에서는 교육용 콘텐츠 영상 제작 또한 지원하고 있습니다.
+
+스마트러닝센터의 제작 지원을 신청할 수 있는 대상은 경북대학교 소속 전임교원 및 기관입니다.
+
+스마트러닝센터의 스튜디오는 3D, 호리즌, 블랙 스튜디오 등의 최첨단 콘텐츠 제작실입니다.
+
+=============================
+
+https://ufis.knu.ac.kr/ufis/index.do
+
+**경북대학교 대학시설공간 종합관리시스템**
+
+대학시설공간 종합관리시스템 사이트는 공간현황관리 및 공간조정관리, 공간비용관리, 시설정보관리, 사업수행관리, 전자도면 관리, 시스템관리의 7가지 갈래로 나뉩니다.
+
+=============================
+
+https://safe.knu.ac.kr/
+
+**경북대학교 연구실안전관리센터**
+
+연구실안전관리센터는 세계 초일류 연구중심대학이 되기 위해 연구활동을 수행하는 교수, 연구원, 대학(원)생 등의 연구활동종사자가 안전하고 쾌적한 환경에서 연구할 수 있도록 하기 위해 설립되었습니다.
+
+연구실안전관리센터는 연구실에서 발생하는 각종 안전사고에 대하여 대비·대응·예방 등 적극 지원을 통해 무재해·무사고를 도모하고자합니다.
+
+연구실안전관리센터에서는 연구실 안전에 관한 기본 걔획을 수립하고, 안전과 관련된 정기점검, 특별안전점검 및 정밀안전진단 관련 업무를 수행합니다.
+
+연구실안전관리센터에서는 연구활동종사자를 대상으로 안전교육을 실시하고 교육 실적을 관리하고 있습니다.
+
+연구실안전관리센터에서는 또, LMO에 관련된 전반적인 업무를 수행하고 있습니다.
+
+=============================
+
+https://ethics.knu.ac.kr/
+
+**경북대학교 연구윤리센터**
+
+경북대학교 연구윤리센터는 대학의 청렴한 연구 문화 조성을 위해 2022년 1월에 설립되었으며, 대학 내 연구윤리 관련 업무 및 각종 위원회를 통합 관리하는 기관입니다.
+
+경북대학교 연구윤리센터에서는 연구개발 전 과정에서의 연구진실성 검증, 인간을 대상으로 하는 연구의 경우 생명윤리 심의, 동물을 대상으로 하는 연구의 경우 동물실험윤리 심의, 연구윤리교육 등의 업무를 수행하고 있습니다.
+
+경북대학교 연구윤리센터 사이트에서는 연구윤리센터 규정을 확인할 수 있습니다.
+
+경북대학교 연구윤리센터 소속으로는 연구진실성위원회, 생명윤리심의위원회, 동물실험윤리위원회가 있습니다.
+
+경북대학교 연구윤리센터 소속의 연구진실성위원회는 경북대학교 연구자들의 연구 부정행위 방지 및 연구윤리 확보를 위한 목적으로 설치되었습니다.
+
+=============================
+
+https://hrc.knu.ac.kr/
+
+**경북대학교 인권센터**
+
+=============================
+
+https://iohs.knu.ac.kr/
+
+**경북대학교 인문학술원**
+
+=============================
+
+https://home.knu.ac.kr/HOME/immk/index.htm
+
+**경북대학교 인문학술원 HK+사업단**
+
+=============================
+
+https://human.knu.ac.kr/main/main.do
+
+**경북대학교·경북대학교병원 인재원**
+
+=============================
+
+https://mnh.knu.ac.kr/
+
+**경북대학교 자연사박물관**
+
+=============================
+
+https://cba.knu.ac.kr/
+
+**경북대학교 장수생활과학연구소**
+
+=============================
+
+https://support.knu.ac.kr/
+
+**경북대학교 장애학생지원센터**
+
+=============================
+
+http://gifted.knu.ac.kr/
+
+**경북대학교 정보영재교육원**
+
+=============================
+
+https://uicc.knu.ac.kr/
+
+**경북대학교 정보화본부**
+
+=============================
+
+https://usr.knu.ac.kr/
+
+**경북대학교 지역사회공헌센터**
+
+=============================
+
+https://knujob.knu.ac.kr/
+
+**경북대학교 진로취업과**
+
+=============================
+
+https://sports.knu.ac.kr/main.html
+
+**경북대학교 체육진흥센터**
+
+=============================
+
+https://knupress.com/
+
+**경북대학교 출판부**
+
+=============================
+
+http://knutp.org/
+
+**경북대학교 테크노파크**
+
+=============================
+
+https://tenet.knu.ac.kr/
+
+**경북대학교 통신망연구실**
+
+=============================
+
+https://lifelong.knu.ac.kr/
+
+**경북대학교 평생교육원**
+
+=============================
+
+http://lifetime.knu.ac.kr/
+
+**경북대학교 평생교육원분원**
+
+=============================
+
+https://109rotc.knu.ac.kr/
+
+**경북대학교 학군단**
+
+=============================
+
+https://ctl.knu.ac.kr/web/main/main.php
+
+**경북대학교학습지원센터**
+
+=============================
+
+https://counsel.knu.ac.kr/main/index.html
+
+**경북대학교 학생상담센터**
+
+=============================
+
+http://www.knube.net/?ckattempt=1
+
+**한국비정규교수노동조합 경북대학교분회**
+
+=============================
+
+https://klrc.modoo.at/
+
+**경북대학교 한국어문화원**
+
+=============================
+
+https://ir.knu.ac.kr/
+
+**IR교육센터**
+
+=============================
+
+https://oz.knu.ac.kr/
+
+**IT교육센터**
+
+=============================
+
+https://iact.or.kr/index.php
+
+**첨단정보통신융산업기술원**
+
+=============================
+
+https://iwc.knu.ac.kr/
+
+**International Writing Center**
+
+=============================
+
+참고사항
+
+3D융합기술지원센터
+
+#경북대 기숙사 사이트 
+1. 생활관 관생자치회 카페 (https://m.cafe.naver.com/dormknu.cafe)
+- 생활관 관련 내용
+- 생활관 공지사항
+- 동반입주 신청 가능
+- Q&A로 모르는 사항 질문 받기 가능
+
+1. 생활관 사이트(https://dorm.knu.ac.kr/_new_ver/)
+- 생활관 공지사항 (재정, BTL)
+- 선발 공지사항 확인 가능
+- 생활관 입주 , 퇴관 일정 확인 가능
+- 기숙사 와이파이 사용 안내
+- 기숙사 연락 문의처
+- 생활관 규칙 확인
+- 생활관 확인
+
+1. 생활관 통합정보시스템([https://appfn.knu.ac.kr](https://appfn.knu.ac.kr/login.knu?agentId=101))
+- 생활관 입주 신청
+- 동반입주 신청 및 승인 여부 확인
+- 상벌점 조회 가능
+- 중도 퇴관 신청 가능
+- 시설물 고장 신고 가능
+
+#경북대 국제 교류 사이트
+https://international.knu.ac.kr/ - https://international.knu.ac.kr/
+
+https://www.youtube.com/channel/UCcVR1TUWcB9Ku6FslF-SgUg: https://www.youtube.com/channel/UCcVR1TUWcB9Ku6FslF-SgUg 
+
+https://cafe.naver.com/knuoia https://cafe.naver.com/knuoia
+
+https://www.instagram.com/knu_international/?hl=ko https://www.instagram.com/knu_international/?hl=ko
+
+https://www.facebook.com/knuinternational https://www.facebook.com/knuinternational
+
+https://iwc.knu.ac.kr/ - https://iwc.knu.ac.kr/
+
+https://knu.ac.kr/wbbs/wbbs/contents/index.action?menu_url=global/info01&menu_idx=176 -https://knu.ac.kr/wbbs/wbbs/contents/index.action?menu_url=global/info01&menu_idx=176
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934404 : 소개글 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934404
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934408 : 담당자 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934408
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934412 : 교류대학 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934412
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934425 : 찾아오는 길 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934425
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934904 : 교환학생 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934904
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934910 : 영어권대학 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934910
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934915 : 유럽대학 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934915
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934920 : 일본대학 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934920
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934925 : 중국/홍콩/대만 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934925
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934931 : 기타대학 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934931
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1629265920 : SAF방문학생 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1629265920
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934683 : 자비유학 학점교류학생
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1593427599 : 복수학위제 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1593427599
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594015375 : 2+2 복수학위제 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594015375
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594015392 : 3+1 복수학위제  https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594015392
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934977 : 해외인턴 소개 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934977
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934987 : 학점인정 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934987
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935067 : 글로벌챌린저 소개
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934691 : 외국대학 SUMMER/WINTER SCHOOL  https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549934691
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1606986376 : 해외 명문대 썸머스쿨 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1606986376
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935295 : BUDDY https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935295
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935339 : KSA 안내https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935339
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935349 : KSA CALLERY https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935349
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935382 : **Friendship Circle** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935382
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935388 : **KLT** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935388
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935396 : **개별어학연수 학점인정**  https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935396
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1570758880 : **i-포트폴리오(글로벌역량 인증)**  https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1570758880
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935413 : **Tutor** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935413
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355125 : **Exchange Student Program** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355125
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355134 : **Double Degree Program** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355134
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1618806483 : **Visiting Student Program** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1618806483
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355144 : **Summer/Winter School Program** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355144
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355157 : **Visiting Scholar Program** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355157
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355081 : **Presentation**  https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1594355081
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935033 : **외국인 특별전형** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935033
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1711940030 : **공지사항(학위과정)** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1711940030
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935049 : **외국인 한국어 교육과정** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935049
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935200 : **공지사항**[https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo154993520035200](https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935200)
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935209 : **Q&A** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935209
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935217 : **FAQ**  https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935217
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935255 : **Photo Gallery** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935255
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935263 : **Video Gallery** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935263
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935231 : 자료실 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935231
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935238 : 지구촌 칼럼https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935238
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935279 : 체험수기 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935279
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935285 : 활동보고서 https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1549935285
+
+https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1607047302 : **Class Materials** https://international.knu.ac.kr/HOME/global/sub.htm?nav_code=glo1607047302
+
+#경북대 비교과 교육과정 통합관리 시스템 (knucube)
+- 진로설정
+    - 비전설정
+        - 진로설계
+            - 진로 설정
+            - 진로설계가이드
+        - 나의비전
+            - 가치관
+            - 목표
+            - 계획
+    - 한국 직업 전망
+    - 학과별 진로정보
+        - 진로로드맵(학과별)
+            - 인문대학
+                - 국어국문학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-korean
+                - 영어영문학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-english
+                - 사학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-history
+                - 철학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-philosophy
+                - 불어불문학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-french
+                - 독어독문학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-german
+                - 중어중문학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-chinese
+                - 고교인류학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-aran
+                - 일어일문학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-japanese
+                - 한문학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-hanmun
+                - 노어노문학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept1&dept=dept-russia
+            - 사회과학대학
+                - 정치외교학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept2&dept=dept-politics
+                - 사회학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept2&dept=dept-socio
+                - 지리학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept2&dept=dept-geog
+                - 문헌정보학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept2&dept=dept-lis
+                - 심리학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept2&dept=dept-psychology
+                - 사회복지학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept2&dept=dept-knusw
+                - 미디어커뮤니케이션학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept2&dept=dept-masscom
+            - 자연과학대학
+                - 수학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept3&dept=dept-math
+                - 물리학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept3&dept=dept-physics
+                - 화학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept3&dept=dept-chem
+                - 생명공학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept3&dept=dept-biotech
+                - 생물학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept3&dept=dept-bio
+                - 통계학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept3&dept=dept-stat
+                - 지질학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept3&dept=dept-geology
+                - 천문대기과학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept3&dept=dept-hanl
+                - 해양학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept3&dept=dept-ocean
+            - 경상대학
+                - 경제통상학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept4&dept=dept-econ
+                - 경영학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept4&dept=dept-kbiz
+            - 공과대학
+                - 금속재료공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-material
+                - 기계공학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-me
+                - 건축학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-arch
+                - 토목공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-civil
+                - 응용화학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-appchem
+                - 화학공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-cheme
+                - 고분자공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-polymer
+                - 섬유시스템공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-textile
+                - 환경공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-env
+                - 에너지공학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-energy
+                - 신소재공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept5&dept=dept-emse
+            - 농업생명과학대학
+                - 식물생명과학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-pbs
+                - 바이오섬유소재학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-biofiber
+                - 임학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-forestry
+                - 조경학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-land
+                - 원예과학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-horti
+                - 식품생물공학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-foodbiotechnology
+                - 식품소재공학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-foodbm
+                - 식품응용공학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-foodae
+                - 농업토목공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-acen
+                - 생물산업기계공학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-bime
+                - 식품자원경제학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept7&dept=dept-frecon
+            - 예술대학
+                - 음악학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept8&dept=dept-music
+                - 국악학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept8&dept=dept-kmusic
+                - 미술학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept8&dept=dept-arts
+                - 디자인학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept8&dept=dept-vcd
+            - 사범대학
+                - 교육학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-edu
+                - 국어교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-koredu
+                - 영어교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-enged
+                - 독어교육전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-geredu
+                - 불어교육전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-fredu
+                - 역사교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-hisedu
+                - 지리교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-geoedu
+                - 일반사회교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-ilsa
+                - 윤리교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-ethedu
+                - 수학교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-mathedu
+                - 물리교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-physed
+                - 화학교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-chedu
+                - 생물교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-bioedu
+                - 지구과학교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-earthed
+                - 가정교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-homeedu
+                - 체육교육과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept13&dept=dept-spoedu
+            - 의과대학
+                - 의예과, 의학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept15&dept=dept-med
+            - 치과대학
+                - 치의예과, 치의학과 - X
+            - 수의과대학
+                - 수의학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept16&dept=dept-veterinary
+            - 생활과학대학
+                - 아동가족학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept9&dept=dept-childfamily
+                - 아동학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept9&dept=dept-child
+                - 의류학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept9&dept=dept-fashion
+                - 식품영양학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept9&dept=dept-fsnu
+            - 간호대학
+                - 간호학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept17&dept=dept-nurs
+            - IT대학
+                - 전자공학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept6&dept=dept-seeai
+                - 컴퓨터학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept6&dept=dept-dgt
+                - 전기공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept6&dept=dept-electric
+            - 행정학부
+                - 행정학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept14&dept=dept-puad
+            - 생태환경대학
+                - 식물자원학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept10&dept=dept-crop
+                - 산림생태보호학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept10&dept=dept-forest
+                - 곤충생명과학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept10&dept=dept-ento
+                - 관광학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept10&dept=dept-tour
+                - 동물생명공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept10&dept=dept-anibiotech
+                - 말/특수동물학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept10&dept=dept-axt
+            - 과학기술대학
+                - 건설방재공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-disaster
+                - 환경안전공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-ue
+                - 정밀기계공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-pmeatknu
+                - 자동차공학부 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-automobile
+                - 소프트웨어학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-se
+                - 에너지화학공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-chemengsjc
+                - 나노신소재공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-amse
+                - 식품외식산업학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-ffsi
+                - 섬유공학전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-textile
+                - 패션디자인전공 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-style
+                - 위치정보시스템학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-lbis
+                - 스마트플랜트공학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-smartplant
+                - 치위생학과 - https://home.knu.ac.kr/HOME/knujob/sub.htm?nav_code=knu1668399325&code=dept11&dept=dept-dehy
+        - 진로로드맵(직무별)
+        - 경북대 취업통계분석
+- 역량개발
+    - 역량소개
+        - 역량이해
+        - 역량프로그램
+            - 창의역량
+            - 융합역량
+            - 비판역량
+            - 탐색역량
+            - 소통역량
+            - 책임역량
+        - 자기개발활동가이드
+            - 자격증
+            - 수상실적
+            - 어학성적
+            - 교육프로그램
+            - 인턴십
+            - 기타
+    - 비교과프로그램
+    - 현장실습
+        - 현장실습안내
+        - 프로그램 공고
+    - 해외인턴안내
+    - 사회봉사안내
+    - 해외봉사활동안내
+    - 글로벌리더십안내
+    - 진로탐색수업
+- 인증 및 진단
+    - 핵심역량진단검사
+    - 학습유형진단검사
+    - 첨성인아너스클럽
+        - 제도 안내
+        - 신청 공고
+    - i-포트폴리오
+    - 진로취업기초진단검사
+        - 대학생 진로준비도검사
+        - 직업가치관검사
+        - 성인용직업적성검사
+        - 직업선호도검사(L형)
+        - 구직준비도검사
+        - 창업적성검사
+    - 직무적성검사 - https://www.jobda.im/acca/introduce
+- 취업정보
+    - 채용정보
+        - 채용공고
+            - 경북대학교 진로취업과
+            - 잡코리아
+            - 사람인
+            - 워크넷
+            - 해외취업/인턴
+        - 추천채용
+            - 추천채용
+            - 추천채용 가이드
+        - 리크루팅
+        - 인턴십
+        - 아르바이트
+        - 취업도움 프로그램
+    - 취업비교과
+    - 취업교육/기업정보
+        - 취업교육
+        - 강소기업정보
+        - 기업조사연구
+    - 제휴서비스
+- 커뮤니티
+    - 공지사항
+    - 자유게시판
+    - 취업후기
+    - 자료실
+    - 동문선배 e-멘토링
+        - 멘토링 공지사항
+        - 우리들의 잡(Job)담(Talk)
+        - 동문선배 e-멘토링
+        - 멘토 가입 신청
+        - 멘토 마이페이지
+- 나의진로
+    - 나의가치관
+    - 나의목표
+    - 나의계획
+- 역량개발현황
+    - 역량개발현황
+    - 역량개발활동
+        - 교과활동
+        - 비교과활동
+        - 자기개발활동
+    - 비교과프로그램
+        - 비교과프로그램신청현황
+        - 비교과프로그램이수현황
+    - 현장실습
+    - 해외인턴
+    - 사회봉사
+        - 사회봉사활동 인증
+    - 해외봉사
+    - 글로벌리더십
+        - 글로벌리더십 인증
+    - 진단검사
+        - 핵심역량진단
+        - 학습유형진단검사
+        - 진로취업기초진단검사
+            - 대학생 진로준비도검사
+            - 직업가치관검사
+            - 성인용직업적성검사
+            - 직업선호도검사(L형)
+            - 구직준비도검사
+            - 창업적성검사
+    - 인증제
+        - 첨성인아너스신청현황
+        - i-포트폴리오
+    - 진로탐색수업
+        - 신청현황
+        - 활동현황
+- 상담현황
