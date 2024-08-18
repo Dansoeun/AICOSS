@@ -2,8 +2,10 @@
 --- 
 ## 구성 요소
 ---
+- 전국 대학교 챗봇 제작이 목표이나, 프로토타입에 대해선 경북대학교 챗봇을 제작하도록 함.
+- [대학교 챗봇 사이트](https://dansoeun.github.io/AICOSS/)
 - **LLM**: 경북대 학교 정보 안내 LLM. (사용 모델:[beomi/Llama-3-Open-Ko-8B](https://huggingface.co/beomi/Llama-3-Open-Ko-8B?text=%EB%84%8C+%EB%A9%8D%EC%B2%AD%EC%9D%B4))
-- **경북대 챗봇**: 날씨 정보에 대한 챗봇 구현.
+- **경북대 챗봇**: 경북대 학사, 학과 정보 등 전반적인 정보 대한 챗봇 구현.
 - **로그인 기능**: 사용자 질의 응답 저장을 위한 로그인 기능 구현.
 - **Vector DB (Postgresql DB)**: 응답 속도를 향상시키기 위한 DB.
 
@@ -39,7 +41,7 @@
 ## 참고자료
 ---
 - **LLM**:
-- llama-index 공식 문서 활용.
+- [llama-index 공식문서](https://www.llamaindex.ai/)
 - [Zero-Shot Code Representation Learning via Prompt Tuning](https://arxiv.org/pdf/2404.08947)
 - [LARGE LANGUAGE MODELS AS OPTIMIZERS](https://arxiv.org/pdf/2309.03409)
 - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916)
