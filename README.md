@@ -16,6 +16,7 @@
 - 수요조사 결과 사용 의향: 97.6% (40/41)
 - 일부 유료화 시 사용 의향: 26.8% (11/41)
 - 지분 분담 혹은 아이템 판매 형식으로 아이디어 구상을 가짐.
+- [마케팅 전략 수립](https://drive.google.com/file/d/1E-rJd5Q95UxkyQdFHfdx9jGoICQNmp-n/view?usp=sharing)
 - [비즈니스 모델 안내](https://drive.google.com/file/d/1BmPgCuYY-XsLpPHRYTZ7x-b6TMMGXyjG/view?usp=drive_link)
 - [PRD 문서 안내]()
 - [MRD 문서 안내]()
