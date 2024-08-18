@@ -13,9 +13,20 @@
 ---
 ###  **창업**
 - 경북대 학교 정보 안내로 제공
+- 해당 서비스의 수요가 증가하면 다른 학교들도 추가하는 방향으로 구상
 - 수요조사 결과 사용 의향: 97.6% (40/41)
 - 일부 유료화 시 사용 의향: 26.8% (11/41)
 - 지분 분담 혹은 아이템 판매 형식으로 아이디어 구상을 가짐.
+- 대상 유저 : 경북대학교 학생(특히 컴퓨터학부생)
+    1. Must Have 기능(M.H.)
+    - 로그인, 회원가입
+    - 챗봇과 대화하는 UI
+    2. Should Have 기능(S.H.)
+    - 답변 생성하는 기능
+    - 사이트를 알려주는 기능
+    3.Could Have 기능(S.H.)
+    - 답변에 대한 만족도 확인
+    - etc
 - [마케팅 전략 수립](https://drive.google.com/file/d/1E-rJd5Q95UxkyQdFHfdx9jGoICQNmp-n/view?usp=sharing)
 - [비즈니스 모델 안내](https://1drv.ms/w/c/105b3b8196291a59/EcwDGuY7OGdAszLf4mEkv_wBr8GJ8QBS2yTppvJWaYOkqw?e=8NVOwn)
 - [PRD 문서 안내]()
