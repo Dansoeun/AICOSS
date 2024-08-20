@@ -62,6 +62,7 @@
 - [LARGE LANGUAGE MODELS AS OPTIMIZERS](https://arxiv.org/pdf/2309.03409)
 - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916)
 - **백엔드**: [스프링부트 공식문서](https://docs.spring.io/spring-framework/reference/index.html)
+- **챗봇** : [프로그래밍 교육 기초 학습자를 위한 교육 콘텐츠생성 GPTs 챗봇 구성](https://www-dbpia-co-kr.libproxy.knu.ac.kr/journal/articleDetail?nodeId=NODE11858670)
 
 <div align="center">
     <h1>📚 STACKS</h1>
