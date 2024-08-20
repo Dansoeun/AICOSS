@@ -82,5 +82,5 @@
 
 ## Need | Support
 -----
-- 
+- Colab 실행 코드를 Port Forwarding으로 GPU서버에 전송하는 방법법
 - 
