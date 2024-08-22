@@ -24,18 +24,20 @@
   <summary>
     <b>프로젝트 일정</b>
   </summary>
-  
-  1. Must Have 기능(M.H.)
+  <code>
+    1. Must Have 기능(M.H.)
     - 로그인, 회원가입
     - 챗봇과 대화하는 UI
   
-  2. Should Have 기능(S.H.)
+    2. Should Have 기능(S.H.)
     - 답변 생성하는 기능
     - 사이트를 알려주는 기능
 
-  3. Could Have 기능(S.H.)
+    3. Could Have 기능(S.H.)
     - 답변에 대한 만족도 확인
     - etc
+  </code>
+  
     </details>
     
 - [마케팅 전략 수립](https://drive.google.com/file/d/1E-rJd5Q95UxkyQdFHfdx9jGoICQNmp-n/view?usp=sharing)
