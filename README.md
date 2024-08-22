@@ -62,7 +62,13 @@
 > [AIHUB - 용도별 목적 대화 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544)   
 > [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)   
 
-- **스크래핑(Chat-Bot Scrapping)**
+<details>
+   <summary>
+      <b> 스크래핑(Chat-Bot Scrapping) </b>
+   </summary>
+   <input type="checkbox" id="annual calender" name="annual calender" checked /> 학사일정 <br>
+   
+</details> 
 - [x] 학사일정
 - [x] 컴퓨터학부 교수진
 - [ ] 경북대학교 공지사항
