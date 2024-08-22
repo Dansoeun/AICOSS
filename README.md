@@ -20,7 +20,7 @@
 - 대상 유저 : 경북대학교 학생(특히 컴퓨터학부생)
 <details>
   <summary>
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=D2Coding&pause=1000&width=435&lines=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8+%EC%9D%BC%EC%A0%95)]
+      프로젝트 일정
   </summary>
   1. Must Have 기능(M.H.)
     - 로그인, 회원가입
