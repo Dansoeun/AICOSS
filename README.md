@@ -24,7 +24,7 @@
   <summary>
     <b>프로젝트 일정</b>
   </summary>
-  <code>
+  
     1. Must Have 기능(M.H.)
     - 로그인, 회원가입
     - 챗봇과 대화하는 UI
@@ -36,7 +36,7 @@
     3. Could Have 기능(S.H.)
     - 답변에 대한 만족도 확인
     - etc
-  </code>
+  
   
     </details>
     
