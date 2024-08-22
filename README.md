@@ -54,11 +54,12 @@
 -  
 
 **2. ChatBot**: 크롤링 + 챗봇 엔진 모델 구축
+<code>
 - 데이터셋 : AIHUB, KNU dataset
 - [AIHUB - 일반상식](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=106)
 - [AIHUB - 용도별 목적 대화 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544)
 - [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)
-
+</code>
 - **스크래핑(Chat-Bot Scrapping)**
 - [x] 학사일정
 - [x] 컴퓨터학부 교수진
