@@ -22,7 +22,7 @@
 ```
 <details>
   <summary>
-    프로젝트 일정
+    <b>프로젝트 일정</b>
   </summary>
   
   1. Must Have 기능(M.H.)
