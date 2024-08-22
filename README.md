@@ -1,7 +1,6 @@
 # 프로젝트 구성
 --- 
-## 구성 요소
----
+## 구성 요소   
 > 전국 대학교 챗봇 제작이 목표이나, 프로토타입에 대해선 경북대학교 챗봇을 제작하도록 함.   
 > [대학교 챗봇 사이트](https://dansoeun.github.io/AICOSS/)   
 > **LLM**: 경북대 학교 정보 안내 LLM. (사용 모델:[beomi/Llama-3-Open-Ko-8B](https://huggingface.co/beomi/Llama-3-Open-Ko-8B?text=%EB%84%8C+%EB%A9%8D%EC%B2%AD%EC%9D%B4))   
