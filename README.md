@@ -55,21 +55,21 @@
 
 **2. ChatBot**: 크롤링 + 챗봇 엔진 모델 구축
 
->- 데이터셋 : AIHUB, KNU dataset
->- [AIHUB - 일반상식](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=106)
->- [AIHUB - 용도별 목적 대화 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544)
->- [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)
+> 데이터셋 : AIHUB, KNU dataset
+> [AIHUB - 일반상식](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=106)
+> [AIHUB - 용도별 목적 대화 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544)
+> [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)
 
 - **스크래핑(Chat-Bot Scrapping)**
-- [x] 학사일정
-- [x] 컴퓨터학부 교수진
-- [ ] 경북대학교 공지사항
-- [ ] 경북대학교 컴퓨터학부 공지사항
-- [ ] 경북대학교 연락처
+ [x] 학사일정
+ [x] 컴퓨터학부 교수진
+ [ ] 경북대학교 공지사항
+ [ ] 경북대학교 컴퓨터학부 공지사항
+ [ ] 경북대학교 연락처
   
 - **챗봇**: Transformer 기반 모델을 구축하고 훈련하는 데 중점을 둠
-- [x] 데이터 전처리
-- [ ] 딥러닝 기반 모델 개발
+ [x] 데이터 전처리
+ [ ] 딥러닝 기반 모델 개발
 
 **3. Back_End**: Flask-AI를 통한 모델 서빙, 세션 기반 로그인 구현 예정 
 - Flask_AI 연동을 시도하였으나, python과 ipynb의 연동 문제 발생.
