@@ -18,7 +18,10 @@
 - 일부 유료화 시 사용 의향: 26.8% (11/41)
 - 지분 분담 혹은 아이템 판매 형식으로 아이디어 구상을 가짐.
 - 대상 유저 : 경북대학교 학생(특히 컴퓨터학부생)
-
+<details>
+  <summary>
+    프로젝트 일정
+  </summary>
   1. Must Have 기능(M.H.)
     - 로그인, 회원가입
     - 챗봇과 대화하는 UI
@@ -30,7 +33,7 @@
   3. Could Have 기능(S.H.)
     - 답변에 대한 만족도 확인
     - etc
-    
+    </details>
 - [마케팅 전략 수립](https://drive.google.com/file/d/1E-rJd5Q95UxkyQdFHfdx9jGoICQNmp-n/view?usp=sharing)
 - [비즈니스 모델 안내](https://drive.google.com/file/d/1eWWlbrqP0N_yit9yIVZ54RBloyCxHIQr/view?usp=sharing)
 - [PRD 문서 안내](https://jannet.notion.site/PRD-AIus-83c925effc534ef39530a4b5706a96cd?pvs=4)
