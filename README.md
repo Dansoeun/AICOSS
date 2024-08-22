@@ -2,12 +2,12 @@
 --- 
 ## 구성 요소
 ---
->- 전국 대학교 챗봇 제작이 목표이나, 프로토타입에 대해선 경북대학교 챗봇을 제작하도록 함.
->- [대학교 챗봇 사이트](https://dansoeun.github.io/AICOSS/)
->- **LLM**: 경북대 학교 정보 안내 LLM. (사용 모델:[beomi/Llama-3-Open-Ko-8B](https://huggingface.co/beomi/Llama-3-Open-Ko-8B?text=%EB%84%8C+%EB%A9%8D%EC%B2%AD%EC%9D%B4))
->- **경북대 챗봇**: 경북대 학사, 학과 정보 등 전반적인 정보 대한 챗봇 구현.
->- **로그인 기능**: 사용자 질의 응답 저장을 위한 로그인 기능 구현.
->- **Vector DB (Postgresql DB)**: 응답 속도를 향상시키기 위한 DB.
+> 전국 대학교 챗봇 제작이 목표이나, 프로토타입에 대해선 경북대학교 챗봇을 제작하도록 함.   
+> [대학교 챗봇 사이트](https://dansoeun.github.io/AICOSS/)   
+> **LLM**: 경북대 학교 정보 안내 LLM. (사용 모델:[beomi/Llama-3-Open-Ko-8B](https://huggingface.co/beomi/Llama-3-Open-Ko-8B?text=%EB%84%8C+%EB%A9%8D%EC%B2%AD%EC%9D%B4))   
+> **경북대 챗봇**: 경북대 학사, 학과 정보 등 전반적인 정보 대한 챗봇 구현.   
+> **로그인 기능**: 사용자 질의 응답 저장을 위한 로그인 기능 구현.   
+> **Vector DB (Postgresql DB)**: 응답 속도를 향상시키기 위한 DB.   
 
 ## 프로젝트 방향성
 ---
@@ -55,10 +55,10 @@
 
 **2. ChatBot**: 크롤링 + 챗봇 엔진 모델 구축
 
-> 데이터셋 : AIHUB, KNU dataset
-> [AIHUB - 일반상식](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=106)
-> [AIHUB - 용도별 목적 대화 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544)
-> [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)
+> 데이터셋 : AIHUB, KNU dataset   
+> [AIHUB - 일반상식](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=106)   
+> [AIHUB - 용도별 목적 대화 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544)   
+> [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)   
 
 - **스크래핑(Chat-Bot Scrapping)**
 - [x] 학사일정
