@@ -66,8 +66,13 @@
    <summary>
       <b> 스크래핑(Chat-Bot Scrapping) </b>
    </summary>
-   <input type="checkbox" id="annual calender" name="annual calender" checked /> 학사일정 <br>
-   
+   <div markdown="1">
+   - [x] 학사일정
+   - [x] 컴퓨터학부 교수진
+   - [ ] 경북대학교 공지사항
+   - [ ] 경북대학교 컴퓨터학부 공지사항
+   - [ ] 경북대학교 연락처
+   </div>
 </details> 
 - [x] 학사일정
 - [x] 컴퓨터학부 교수진
