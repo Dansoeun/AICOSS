@@ -67,6 +67,7 @@
       <b> 스크래핑(Chat-Bot Scrapping) </b>
 </summary>
 <div markdown="1">
+   **학사일정**
 - [x] 학사일정
 - [x] 컴퓨터학부 교수진
 - [ ] 경북대학교 공지사항
