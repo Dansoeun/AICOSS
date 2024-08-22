@@ -60,6 +60,8 @@
 - [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)
 - 스크래핑: 현재 학사 일정과 컴퓨터학부 교수진들 모았습니다. (ChatBot-Scrapping )
 - 챗봇: Transformer 기반 모델을 구축하고 훈련하는 데 중점을 둠. 데이터 전처리 단계와 딥러닝을 이용한 모델 개발 중.
+- [x] 데이터 전처리
+- [ ] 딥러닝 기반 모델 개발
 
 **3. Back_End**: Flask-AI를 통한 모델 서빙, 세션 기반 로그인 구현 예정 
 - Flask_AI 연동을 시도하였으나, python과 ipynb의 연동 문제 발생.
