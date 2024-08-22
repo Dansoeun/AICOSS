@@ -44,7 +44,11 @@
 -  Vector DB 연결은 GPU 서버 사용 중단으로 진행이 더딤.
 -  
 
-**2. ChatBot**: 크롤링 + Transformer 모델 구축으로 연결 예정.
+**2. ChatBot**: 크롤링 + 챗봇 엔진 모델 구축
+- 데이터셋 : AIHUB, KNU dataset
+- [AIHUB - 일반상식](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=106)
+- [AIHUB - 용도별 목적 대화 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544)
+- [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)
 - 스크래핑: 현재 학사 일정과 컴퓨터학부 교수진들 모았습니다. (ChatBot-Scrapping )
 - 챗봇: Transformer 기반 모델을 구축하고 훈련하는 데 중점을 둠. 데이터 전처리 단계와 딥러닝을 이용한 모델 개발 중.
 
