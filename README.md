@@ -11,6 +11,7 @@
 
 ## 프로젝트 방향성
 ---
+```
 ###  **창업**
 - 경북대 학교 정보 안내로 제공
 - 해당 서비스의 수요가 증가하면 다른 학교들도 추가하는 방향으로 구상
@@ -39,7 +40,7 @@
 - [비즈니스 모델 안내](https://drive.google.com/file/d/1eWWlbrqP0N_yit9yIVZ54RBloyCxHIQr/view?usp=sharing)
 - [PRD 문서 안내](https://jannet.notion.site/PRD-AIus-83c925effc534ef39530a4b5706a96cd?pvs=4)
 - [MRD 문서 안내]()
-
+```
 ## 프로젝트 기술
 ---
 **1. LLM**: llama-index와 PostgreSQL DB 연동 완료.
