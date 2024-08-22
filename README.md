@@ -11,14 +11,15 @@
 
 ## 프로젝트 방향성
 ---
-```
 ###  **창업**
+```
 - 경북대 학교 정보 안내로 제공
 - 해당 서비스의 수요가 증가하면 다른 학교들도 추가하는 방향으로 구상
 - 수요조사 결과 사용 의향: 97.6% (40/41)
 - 일부 유료화 시 사용 의향: 26.8% (11/41)
 - 지분 분담 혹은 아이템 판매 형식으로 아이디어 구상을 가짐.
 - 대상 유저 : 경북대학교 학생(특히 컴퓨터학부생)
+```
 <details>
   <summary>
     프로젝트 일정
@@ -36,11 +37,12 @@
     - 답변에 대한 만족도 확인
     - etc
     </details>
+    
 - [마케팅 전략 수립](https://drive.google.com/file/d/1E-rJd5Q95UxkyQdFHfdx9jGoICQNmp-n/view?usp=sharing)
 - [비즈니스 모델 안내](https://drive.google.com/file/d/1eWWlbrqP0N_yit9yIVZ54RBloyCxHIQr/view?usp=sharing)
 - [PRD 문서 안내](https://jannet.notion.site/PRD-AIus-83c925effc534ef39530a4b5706a96cd?pvs=4)
 - [MRD 문서 안내]()
-```
+
 ## 프로젝트 기술
 ---
 **1. LLM**: llama-index와 PostgreSQL DB 연동 완료.
