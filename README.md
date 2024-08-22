@@ -33,7 +33,7 @@
     
 - [마케팅 전략 수립](https://drive.google.com/file/d/1E-rJd5Q95UxkyQdFHfdx9jGoICQNmp-n/view?usp=sharing)
 - [비즈니스 모델 안내](https://drive.google.com/file/d/1eWWlbrqP0N_yit9yIVZ54RBloyCxHIQr/view?usp=sharing)
-- [PRD 문서 안내](https://jannet.notion.site/f6290c6a5065465796fd02ac7e3c165e?pvs=4)
+- [PRD 문서 안내](https://jannet.notion.site/PRD-AIus-83c925effc534ef39530a4b5706a96cd?pvs=4)
 - [MRD 문서 안내]()
 
 ## 프로젝트 기술
