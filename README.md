@@ -20,7 +20,7 @@
 - 대상 유저 : 경북대학교 학생(특히 컴퓨터학부생)
 <details>
   <summary>
-      프로젝트 일정
+      **프로젝트 일정**
   </summary>
   
   1. Must Have 기능(M.H.)
