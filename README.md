@@ -64,7 +64,7 @@
 </details>
 
 <details>
-   <summary>진행상황</summary>
+   <summary><b>progress</b></summary>
 
 <b>스크래핑(Chat-Bot Scrapping)</b>
 - [x] 학사일정
@@ -81,7 +81,7 @@
    
 **3. Back_End**: Flask-AI를 통한 모델 서빙, 세션 기반 로그인 구현 예정 
 <details>
-   <summary>진행상황</summary>
+   <summary><b>progress</b></summary>
 - Flask_AI 연동을 시도하였으나, python과 ipynb의 연동 문제 발생.
 - Spring Boot를 이용하여 회원가입 및 로그인 기능 구현 완료.
 - AWS와 Mysql을 이용하여 홈페이지에서 로그인, 회원가입할 경우 DB에 정보들이 저장되는 것을 확인.
