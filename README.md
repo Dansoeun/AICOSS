@@ -50,9 +50,13 @@
 ## 프로젝트 기술
 ---
 **1. LLM**: llama-index와 PostgreSQL DB 연동 완료.
-- PEFT 데이터셋: Hugging Face에 업로드. [KNU dataset](https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset)
-- GPU 서버: Zero-Shot-Prompt 진행중
--  Vector DB 연결은 GPU 서버 사용 중단으로 진행이 더딤.
+<details>
+   <summary><b>progress</b></summary>
+PEFT 데이터셋: Hugging Face에 업로드. <a href="https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset">[KNU dataset]<br> 
+GPU 서버: Zero-Shot-Prompt 진행중<br> 
+Vector DB 연결은 GPU 서버 사용 중단으로 진행이 더딤.<br> 
+</details>
+
 
 
 <b>2. ChatBot</b>: 크롤링 + 챗봇 엔진 모델 구축
@@ -82,10 +86,10 @@
 **3. Back_End**: Flask-AI를 통한 모델 서빙, 세션 기반 로그인 구현 예정 
 <details>
    <summary><b>progress</b></summary>
-- Flask_AI 연동을 시도하였으나, python과 ipynb의 연동 문제 발생.
-- Spring Boot를 이용하여 회원가입 및 로그인 기능 구현 완료.
-- AWS와 Mysql을 이용하여 홈페이지에서 로그인, 회원가입할 경우 DB에 정보들이 저장되는 것을 확인.
-- Front_End 쪽 코드가 제대로 백엔드에 적용이 안되는 것을 확인하여 임시로 웹페이지를 제작하였으며, 추후에 수정할 예정.
+- Flask_AI 연동을 시도하였으나, python과 ipynb의 연동 문제 발생.   
+- Spring Boot를 이용하여 회원가입 및 로그인 기능 구현 완료.   
+- AWS와 Mysql을 이용하여 홈페이지에서 로그인, 회원가입할 경우 DB에 정보들이 저장되는 것을 확인.   
+- Front_End 쪽 코드가 제대로 백엔드에 적용이 안되는 것을 확인하여 임시로 웹페이지를 제작하였으며, 추후에 수정할 예정.   
 </details>
 
    
