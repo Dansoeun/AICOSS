@@ -78,16 +78,15 @@
 - [ ] 딥러닝 기반 모델 개발
 
 </details>
-
-
-  
-
-
+   
 **3. Back_End**: Flask-AI를 통한 모델 서빙, 세션 기반 로그인 구현 예정 
+<details>
+   <summary>진행상황</summary>
 - Flask_AI 연동을 시도하였으나, python과 ipynb의 연동 문제 발생.
 - Spring Boot를 이용하여 회원가입 및 로그인 기능 구현 완료.
 - AWS와 Mysql을 이용하여 홈페이지에서 로그인, 회원가입할 경우 DB에 정보들이 저장되는 것을 확인.
 - Front_End 쪽 코드가 제대로 백엔드에 적용이 안되는 것을 확인하여 임시로 웹페이지를 제작하였으며, 추후에 수정할 예정.
+</details>
 
    
 ## 참고자료
