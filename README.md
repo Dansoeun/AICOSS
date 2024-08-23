@@ -62,7 +62,18 @@
 > [AIHUB - 용도별 목적 대화 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544)   
 > [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)   
 
-
+<details>
+   <summary>
+      스크래핑
+   </summary>
+   <div markdown="1">
+      - [x] 학사일정
+      - [x] 컴퓨터학부 교수진
+      - [ ] 경북대학교 공지사항
+      - [ ] 경북대학교 컴퓨터학부 공지사항
+      - [ ] 경북대학교 연락처
+   </div>
+</details>
 **스크래핑(Chat-Bot Scrapping)**
 - [x] 학사일정
 - [x] 컴퓨터학부 교수진
