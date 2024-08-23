@@ -52,7 +52,7 @@
 **1. LLM**: llama-index와 PostgreSQL DB 연동 완료.
 <details>
    <summary><b>progress</b></summary>
-PEFT 데이터셋: Hugging Face에 업로드. <a href="https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset">[KNU dataset]<br> 
+PEFT 데이터셋: Hugging Face에 업로드. <a href="https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset">[KNU dataset]   <br> 
 GPU 서버: Zero-Shot-Prompt 진행중<br> 
 Vector DB 연결은 GPU 서버 사용 중단으로 진행이 더딤.<br> 
 </details>
