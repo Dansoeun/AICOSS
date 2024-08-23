@@ -53,11 +53,12 @@
 - PEFT 데이터셋: Hugging Face에 업로드. [KNU dataset](https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset)
 - GPU 서버: Zero-Shot-Prompt 진행중
 -  Vector DB 연결은 GPU 서버 사용 중단으로 진행이 더딤.
--  
 
+
+<b>2. ChatBot</b>: 크롤링 + 챗봇 엔진 모델 구축
 <details>
-   <summary><b>2. ChatBot</b>: 크롤링 + 챗봇 엔진 모델 구축</summary>
-데이터셋 : AIHUB, KNU dataset   <br>
+   <summary>데이터셋 : AIHUB, KNU dataset</summary>
+   <a href="https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=106">[AIHUB - 일반상식]<br>
 [AIHUB - 일반상식](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=106)   <br>
 [AIHUB - 용도별 목적 대화 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544)   <br>
 [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)   <br>
