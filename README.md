@@ -63,23 +63,22 @@
 > [AIHUB - 주제별 텍스트 일상 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543)   
 
 <details>
-   <summary><b>스크래핑(Chat-Bot Scrapping)</b></summary>
+   <summary>진행상황</summary>
 
+<b>스크래핑(Chat-Bot Scrapping)</b>
 - [x] 학사일정
 - [x] 컴퓨터학부 교수진
 - [ ] 경북대학교 공지사항
 - [ ] 경북대학교 컴퓨터학부 공지사항
 - [ ] 경북대학교 연락처
 
-</details>
-
-<details>
-   <summary><b>챗봇</b> : Transformer 기반 모델을 구축하고 훈련하는 데 중점을 둠</summary>
-
+<b>챗봇</b> : Transformer 기반 모델을 구축하고 훈련하는 데 중점을 둠
 - [x] 데이터 전처리
 - [ ] 딥러닝 기반 모델 개발
 
 </details>
+
+
   
 
 
