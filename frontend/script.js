@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const profileLink = document.getElementById('profileLink');
     const questionsLink = document.querySelector('nav ul li a[href="questions.html"]');
     
-    let isLoggedIn = false;  // 예시로 기본값을 false로 설정
+    let isLoggedIn = true;  // 예시로 기본값을 false로 설정
 
     if (profileLink) {
         profileLink.addEventListener('click', function(event) {
@@ -76,4 +76,16 @@ document.addEventListener('DOMContentLoaded', function() {
             userMenu.style.display = 'none';
         });
     }
+});
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    const faqItems = document.querySelectorAll('.faq-item');
+
+    faqItems.forEach(item => {
+        item.querySelector('.faq-question').addEventListener('click', function() {
+            const answer = item.querySelector('.faq-answer');
+            answer.style.display = answer.style.display === 'block' ? 'none' : 'block';
+        });
+    });
 });
