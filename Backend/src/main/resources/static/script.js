@@ -4,6 +4,29 @@ document.addEventListener('DOMContentLoaded', function() {
     const chatArea = document.getElementById('chatArea');
     const initialMessage = document.getElementById('initialMessage');
 
+    // 웹소켓 연결 설정
+    const socket = new WebSocket('ws://localhost:8080/ws');
+
+    socket.onopen = function(event) {
+        console.log("WebSocket 연결 성공");
+    };
+
+    socket.onmessage = function(event) {
+        const botResponseElement = document.createElement('div');
+        botResponseElement.className = 'message bot-message';
+        botResponseElement.innerHTML = `<p>${event.data}</p>`;
+        chatArea.appendChild(botResponseElement);
+        chatArea.scrollTop = chatArea.scrollHeight;
+    };
+
+    socket.onclose = function(event) {
+        console.log("WebSocket 연결 종료");
+    };
+
+    socket.onerror = function(error) {
+        console.error("WebSocket 오류:", error);
+    };
+
     questionForm.addEventListener('submit', function(event) {
         event.preventDefault();
         if (initialMessage && chatArea.contains(initialMessage)) {
@@ -19,33 +42,27 @@ document.addEventListener('DOMContentLoaded', function() {
         userMessageElement.innerHTML = `<p>${userMessage}</p>`;
         chatArea.appendChild(userMessageElement);
 
-        const botResponseElement = document.createElement('div');
-        botResponseElement.className = 'message bot-message';
-        botResponseElement.innerHTML = `<p>여기에 챗봇의 답변이 표시됩니다.</p>`;
-        chatArea.appendChild(botResponseElement);
-
-        chatArea.scrollTop = chatArea.scrollHeight;
+        // 사용자 메시지를 웹소켓 서버로 전송
+        socket.send(userMessage);
 
         questionInput.value = '';
     });
 });
-
-
 
 document.addEventListener('DOMContentLoaded', function() {
     const loginBtn = document.getElementById('loginBtn');
     const signupBtn = document.getElementById('signupBtn');
     const userMenu = document.getElementById('userMenu');
     const profileLink = document.getElementById('profileLink');
-    const questionsLink = document.querySelector('nav ul li a[href="questions.html"]');
-    
-    let isLoggedIn = true;  // 예시로 기본값을 false로 설정
+    const questionsLink = document.querySelector('nav ul li a[href="questions"]');
+
+    let isLoggedIn = false;  // 예시로 기본값을 false로 설정
 
     if (profileLink) {
         profileLink.addEventListener('click', function(event) {
             if (!isLoggedIn) {
-                event.preventDefault(); 
-                window.location.href = 'login.html';
+                event.preventDefault();
+                window.location.href = 'login';
             }
         });
     }
@@ -53,8 +70,8 @@ document.addEventListener('DOMContentLoaded', function() {
     if (questionsLink) {
         questionsLink.addEventListener('click', function(event) {
             if (!isLoggedIn) {
-                event.preventDefault(); 
-                window.location.href = 'login.html';
+                event.preventDefault();
+                window.location.href = 'login';
             }
         });
     }
@@ -77,7 +94,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
-
 
 document.addEventListener('DOMContentLoaded', function() {
     const faqItems = document.querySelectorAll('.faq-item');
