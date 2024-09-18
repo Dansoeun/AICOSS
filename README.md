@@ -111,7 +111,7 @@
 - [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/pdf/2407.01219)
 - [BM25S: Orders of magnitude faster lexical search via eager sparse scoring](https://arxiv.org/pdf/2407.03618)
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/pdf/1901.11196)
-- **백엔드**: [스프링부트 공식문서](https://docs.spring.io/spring-framework/reference/index.html)
+- **백엔드**: [스프링부트 공식문서](https://docs.spring.io/spring-framework/reference/index.html) [llama-rest api connect](https://www.bentoml.com/blog/serving-a-llamaindex-rag-app-as-rest-apis)
 - **챗봇** : [프로그래밍 교육 기초 학습자를 위한 교육 콘텐츠생성 GPTs 챗봇 구성](https://www-dbpia-co-kr.libproxy.knu.ac.kr/journal/articleDetail?nodeId=NODE11858670)
 
 <div align="center">
