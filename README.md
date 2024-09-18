@@ -59,6 +59,7 @@
       <li>Hybrid Search: BM25 algorithm으로 검색 능력 향상</li>
       <li>Hyde 기법 적용 예정</li>
       <li>few-shot + CoT prompt 적용 예정 (few-shot prompt는 제작 완료)</li>
+      <li>필요시, Prompt Compression을 할 예정입니다.</li>
    </ul>
 </details>
 
