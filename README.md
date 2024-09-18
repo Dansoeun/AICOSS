@@ -52,13 +52,16 @@
 **1. LLM**: [llama기반 ko-model](https://huggingface.co/beomi/Llama-3-Open-Ko-8B) PEFT-Lora 적용 한 모델과 Chroma DB 연결 완료
 <details>
    <summary><b>progress</b></summary>
-PEFT-Lora 데이터셋: Hugging Face에 업로드. <a href="https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset">[KNU dataset]   </a><br> 
-- 추가 데이터셋 확 예정 ([한국어 EDA 도움](https://github.com/catSirup/KorEDA/blob/master/eda.py))
-- PEFT-Lora로 학습 시킨 모델과 Chroma DB 연결 완료
-- Hybrid Search : BM25 algorithm으로 검색 능력 향상 
-- Hyde 기법 적용 예정
-- few-shot + CoT prompt 적용 예정 (few-shot prompt는 제작 완)
+   <ul>
+      <li>PEFT-Lora 데이터셋: Hugging Face에 업로드. <a href="https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset">[KNU dataset]</a></li>
+      <li>추가 데이터셋 확보 예정 (<a href="https://github.com/catSirup/KorEDA/blob/master/eda.py">한국어 EDA 도움</a>)</li>
+      <li>PEFT-Lora로 학습 시킨 모델과 Chroma DB 연결 완료</li>
+      <li>Hybrid Search: BM25 algorithm으로 검색 능력 향상</li>
+      <li>Hyde 기법 적용 예정</li>
+      <li>few-shot + CoT prompt 적용 예정 (few-shot prompt는 제작 완료)</li>
+   </ul>
 </details>
+
 
 
 
