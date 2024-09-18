@@ -7,7 +7,7 @@
 > **LLM**: 경북대 학교 정보 안내 LLM. (사용 모델:[beomi/Llama-3-Open-Ko-8B](https://huggingface.co/beomi/Llama-3-Open-Ko-8B?text=%EB%84%8C+%EB%A9%8D%EC%B2%AD%EC%9D%B4))   
 > **경북대 챗봇**: 경북대 학사, 학과 정보 등 전반적인 정보 대한 챗봇 구현.   
 > **로그인 기능**: 사용자 질의 응답 저장을 위한 로그인 기능 구현.   
-> **Vector DB (Postgresql DB)**: 응답 속도를 향상시키기 위한 DB.   
+> **Vector DB (Postgresql DB -> Chroma DB)**: 응답 속도를 향상시키기 위한 DB.   
 
    
 ## 프로젝트 방향성   
@@ -49,12 +49,15 @@
    
 ## 프로젝트 기술
 ---
-**1. LLM**: llama-index와 PostgreSQL DB 연동 완료.
+**1. LLM**: [llama기반 ko-model](https://huggingface.co/beomi/Llama-3-Open-Ko-8B) PEFT-Lora 적용 한 모델과 Chroma DB 연결 완료
 <details>
    <summary><b>progress</b></summary>
-PEFT 데이터셋: Hugging Face에 업로드. <a href="https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset">[KNU dataset]   </a><br> 
-GPU 서버: Zero-Shot-Prompt 진행중<br>
-Vector DB 연결은 GPU 서버 사용 중단으로 진행이 더딤.<br> 
+PEFT-Lora 데이터셋: Hugging Face에 업로드. <a href="https://huggingface.co/datasets/Dansoeun/Knu_fine_tun_dataset">[KNU dataset]   </a><br> 
+- 추가 데이터셋 확 예정 ([한국어 EDA 도움](https://github.com/catSirup/KorEDA/blob/master/eda.py))
+- PEFT-Lora로 학습 시킨 모델과 Chroma DB 연결 완료
+- Hybrid Search : BM25 algorithm으로 검색 능력 향상 
+- Hyde 기법 적용 예정
+- few-shot + CoT prompt 적용 예정 (few-shot prompt는 제작 완)
 </details>
 
 
