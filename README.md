@@ -8,7 +8,6 @@
 > **경북대 챗봇**: 경북대 학사, 학과 정보 등 전반적인 정보 대한 챗봇 구현.   
 > **로그인 기능**: 사용자 질의 응답 저장을 위한 로그인 기능 구현.   
 > **Vector DB (Postgresql DB -> Chroma DB)**: 응답 속도를 향상시키기 위한 DB.   
-
 ## 프로젝트 방향성   
 ---
 ###  **창업**
@@ -44,7 +43,7 @@
 - [비즈니스 모델 안내](https://drive.google.com/file/d/1eWWlbrqP0N_yit9yIVZ54RBloyCxHIQr/view?usp=sharing)
 - [PRD 문서 안내](https://jannet.notion.site/PRD-AIus-83c925effc534ef39530a4b5706a96cd?pvs=4)
 - [MRD 문서 안내]()
-   
+
 ## 프로젝트 기술
 ---
 **1. LLM**: [llama기반 ko-model](https://huggingface.co/beomi/Llama-3-Open-Ko-8B) PEFT-Lora 적용 한 모델과 Chroma DB 연결 완료
@@ -65,6 +64,24 @@
    <summary>데이터셋 : AIHUB, KNU dataset</summary>
 <a href="https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=106">[AIHUB - 일반상식]<br>
 <a href="https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544">[AIHUB - 용도별 목적 대화 데이터]<br>
+<a href="https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=543">[AIHUB - 주제별 텍스트 일상 데이터]<br>
+</details>
+<details>
+   <summary><b>progress</b></summary>
+  
+<b>스크래핑(Chat-Bot Scrapping)</b>
+- [x] 학사일정
+- [x] 컴퓨터학부 교수진
+- [ ] 경북대학교 공지사항
+- [x] 컴퓨터학부 교육/커뮤니티/학생활동
+- [x] 경북대학교 컴퓨터학부 공지사항
+- [ ] 경북대학교 연락처
+<b>챗봇</b> : Transformer 기반 모델을 구축하고 훈련하는 데 중점을 둠
+- [x] 데이터 전처리
+- [ ] 딥러닝 기반 모델 개발
+</details>
+   
+**3. Back_End**: AI와 연결 시도중
 <a href="중
 <details>
    <summary><b>progress</b></summary>
@@ -110,4 +127,4 @@
 ## Need | Support
 -----
 - Colab 실행 코드를 Port Forwarding으로 GPU서버에 전송하는 방법
-- 
+-
