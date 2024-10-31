@@ -82,7 +82,6 @@
 </details>
    
 **3. Back_End**: AI와 연결 시도중
-<a href="중
 <details>
    <summary><b>progress</b></summary>
 - Flask_AI 연동을 시도하였으나, python과 ipynb의 연동 문제 발생.<br>
