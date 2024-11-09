@@ -1,4 +1,4 @@
-##프로젝트 구성
+## 프로젝트 구성
 --- 
 + 계열사 정보 안내 llm , 날씨 챗봇 , 로그인 기능 구현 
 + 로그인 기능으로 기존 질의응답 셋 저장
@@ -6,7 +6,7 @@
 
 
 
-##프로젝트 방향성
+## 프로젝트 방향성
 ----
 1. **개발용역**:
 *한 계열사 정보를 크롤링해서 모은 다음 챗봇 형식으로 납품.
@@ -14,7 +14,7 @@
 *한 사이트에 여러개의 챗봇이 들어갈 수 있게 경량화 기법(Tensor RT) 고안 
 2. **창업**: 기존 개발품을 사업화. [비즈니스 모델 안내](https://drive.google.com/file/d/1BmPgCuYY-XsLpPHRYTZ7x-b6TMMGXyjG/view?usp=sharing)
 
-###프로젝트 기술
+### 프로젝트 기술
 ---
 1. LLM: llama-index + postgresSQL DB 완료.
 * PEFT 데이터셋 hugging face에 업로드 [kakao QnA dataset](https://huggingface.co/datasets/Dansoeun/Kakao_fine_tun_dataset), [naver QnA dataset](https://huggingface.co/datasets/Dansoeun/Naver_fine_tun_dataset)
