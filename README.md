@@ -1,4 +1,6 @@
-# 프로젝트 구성   
+<h1 align = "center"> <p><b> 🤖프로젝트 구성 </b></p>
+<h3 align = "center"> <p>경북대학교 전용 chatgpt</p>
+  
 ---
 
 ## 구성 요소   
