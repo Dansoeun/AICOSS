@@ -21,6 +21,11 @@
 *  GPU 서버로 PEFT를 진행하려 했으나 사용에 에러가 있어 잠시 차질이 있음.
 *  기존 데이터셋은 적으나 점차 늘려서 학습하는 방식으로 진행할 예정
 *  정확도를 끌어올린 이후에는 경량화 초점으로 맞춰 갈지 논의해야할 사항.
-4. ChatBot: 크롤링 + Transformer 모델 구축으로 연결할 예정
+2. ChatBot: 크롤링 + Transformer 모델 구축으로 연결할 예정
 * 크롤링 모델을 고안했지만 아직 미숙함이 있음.
 * 챗봇 데이터셋 학습 및 전처리를 완료하였으나 의도 분류 모델(CNN) 작업 중 문제가 생김.
+
+
+## AI 기술 스택
+---
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 	![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
