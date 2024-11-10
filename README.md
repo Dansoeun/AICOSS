@@ -106,7 +106,7 @@
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/pdf/1901.11196)
 - **백엔드**: [스프링부트 공식문서](https://docs.spring.io/spring-framework/reference/index.html) [llama-rest api connect](https://www.bentoml.com/blog/serving-a-llamaindex-rag-app-as-rest-apis)
 - **챗봇** : [프로그래밍 교육 기초 학습자를 위한 교육 콘텐츠생성 GPTs 챗봇 구성](https://www-dbpia-co-kr.libproxy.knu.ac.kr/journal/articleDetail?nodeId=NODE11858670)
-<img alt="Static Badge" src="https://img.shields.io/badge/Hugging%20Face-yellow?logo=huggingface&logoColor=white&color=%23FFD21E">
+
 
 
 
@@ -125,14 +125,20 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Hugging%20Face-yellow.svg?style=for-the-badge&logo=huggingface&logoColor=white&color=%23FFD21E">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Lang%20Chain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/llama3-000000.svg?style=for-the-badge&logo=ollama&logoColor=white">
+
   
 </div>
+
 
 
 
