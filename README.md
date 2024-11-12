@@ -45,6 +45,7 @@
 - [비즈니스 모델 안내](https://drive.google.com/file/d/1eWWlbrqP0N_yit9yIVZ54RBloyCxHIQr/view?usp=sharing)
 - [PRD 문서 안내](https://jannet.notion.site/PRD-AIus-83c925effc534ef39530a4b5706a96cd?pvs=4)
 - [MRD 문서 안내]()
+- [figma 웹 디자인](https://www.figma.com/design/MaQShoLO1MJuDzTTMkHTSi/AIus_ChatBot_Design?node-id=0-1&t=pZ2HDL6bcLoMcU0i-1)
 
 ## 프로젝트 기술
 ---
