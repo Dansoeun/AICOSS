@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>질문 기록</title>
+    <link rel="stylesheet" href="/css/basic.css">
+    <link rel="icon" href="/4616790.png">
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="/indexLogin">
+                    <img src="/4616790.png" alt="logo" class="logo-image">
+                    AIus
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="aboutLogin">About</a></li>
+                    <li><a href="questions" class="active">Questions</a></li>
+                    <li><a href="profile" id="profileLink">Profile</a></li>
+                    <li><a href="faqLogin">FAQ</a></li>
+                </ul>
+            </nav>
+            <div class="auth">
+               <div id="userMenu" class="user-menu">
+                    <div id="userName">{{username}} 회원님</div>
+                    <ul class="dropdown">
+                        <li><a href="profile">회원정보</a></li>
+                        <li><a href="#" id="logoutBtn">로그아웃</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header> <!------메인 시작------>
+    <main id="mainContent">
+        <div class="container main-content">
+            <aside class="previous-questions" id="previousQuestions">
+                <h2>대학교 선택</h2>
+                <select id="universitySelect">
+                    <option value="knu" selected>경북대학교</option>
+                    <option value="snu">서울대학교</option>
+                    <option value="ku">고려대학교</option>
+                    <option value="yonsei">연세대학교</option>
+                    <option value="postech">포스텍</option>
+                    <option value="kaist">카이스트</option>
+                    <option value="skku">성균관대학교</option>
+                    <option value="hanyang">한양대학교</option>
+                </select>
+            </aside>
+            <div class="right-container">
+                <section class="questions">
+                    <h1>과거 질문 기록</h1>
+                    <div id="questionsList" class="questions-list">
+                        <!-- 날짜별로 질문과 답변이 추가됩니다 -->
+                    </div>
+                    <div id="questio    nDetails" class="question-details">
+                        <!-- 선택한 날짜의 질문과 답변이 표시됩니다 -->
+                    </div>
+                </section>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <section class="contact">
+                <h3>Contact Us</h3>
+                <p>Email: <a href="mailto:knh0800@knu.ac.kr">knh0800@knu.ac.kr</a></p>
+                <p>Github: <a href="address:https://github.com/Dansoeun/AICOSS">https://github.com/Dansoeun/AICOSS</a></p>
+            </section>
+        </div>
+    </footer>
+</div>
+<script src="/js/script.js"></script>
+<script src="/js/questions.js"></script>
+
+</body>
+</html>
