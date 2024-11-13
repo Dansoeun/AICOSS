@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>프로필</title>
+    <link rel="stylesheet" href="/css/basic.css">
+    <link rel="icon" href="/4616790.png">
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="/indexLogin">
+                    <img src="/4616790.png" alt="logo" class="logo-image">
+                    AIus
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="aboutLogin">About</a></li>
+                    <li><a href="questions">Questions</a></li>
+                    <li><a id="profileLink" href="profile" class="active">Profile</a></li>
+                    <li><a href="faqLogin">FAQ</a></li>
+                </ul>
+            </nav>
+            <div class="auth">
+                <div id="userMenu" class="user-menu">
+                    <div id="userName">{{username}} 회원님</div>
+                    <ul class="dropdown">
+                        <li><a href="profile">회원 정보</a></li>
+                        <li><a id="logoutBtn" href="#">로그아웃</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main id="mainContent">
+        <div class="container main-content">
+            <aside class="previous-questions" id="previousQuestions">
+                <h2>대학교 선택</h2>
+                <select id="universitySelect">
+                    <option value="knu" selected>경북대학교</option>
+                    <option value="snu">서울대학교</option>
+                    <option value="ku">고려대학교</option>
+                    <option value="yonsei">연세대학교</option>
+                    <option value="postech">포스텍</option>
+                    <option value="kaist">카이스트</option>
+                    <option value="skku">성균관대학교</option>
+                    <option value="hanyang">한양대학교</option>
+                </select>
+            </aside>
+            <section class="right-container">
+                <h1>사용자 프로필</h1>
+                <div id="profileContent" class="profile-info">
+                    <div class="profile-details">
+                        <h2>{{username}}</h2>
+                        <p>{{email}}</p>
+                    </div>
+                    <div class="profile-settings">
+                        <h3>프로필 정보</h3>
+                        <form class="profile-form">
+                            <div class="form-group">
+                                <label for="userName">이름:</label>
+                                <input type="text" id="userName" value={{username}} readonly>
+                            </div>
+                            <div class="form-group">
+                                <label for="userEmail">이메일:</label>
+                                <input type="email" id="userEmail" value={{email}} readonly>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <section class="contact">
+                <h3>Contact Us</h3>
+                <p>Email: <a href="mailto:knh0800@knu.ac.kr">knh0800@knu.ac.kr</a></p>
+                <p>Github: <a href="address:https://github.com/Dansoeun/AICOSS">https://github.com/Dansoeun/AICOSS</a></p>
+            </section>
+        </div>
+    </footer>
+</div>
+<script src="/js/script.js"></script>
+</body>
+</html>
